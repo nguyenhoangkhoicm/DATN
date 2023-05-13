@@ -1,0 +1,19 @@
+#cần cài đặt python 3.9.13 trong file hướng dẫn.
+pyaudio
+struct
+pvporcupine
+os
+datetime
+pycopy-difflib
+wikipedia 
+pycopy-webbrowser
+json2json
+random2
+playsound==1.2.0
+gTTS
+speech-recognition-python
+exosip2ctypes
+requests
+time-tools
+pandas2
+sklearn

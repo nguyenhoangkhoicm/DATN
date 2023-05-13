@@ -1,0 +1,13 @@
+                                                Mô tả chương trình
+                                                
+Chương trình liên tục lắng nghe người dùng nói từ đánh thức ("hey siri").
+
+Khi một từ đánh thức được phát hiện chương trình sẽ sử dụng tính năng nhận dạng giọng nói,
+để xác định những gì người dùng nói.
+
+Lớp IntentClassifier(được tìm thấy trong /intentclassifier/intent_classification.py`) 
+phân loại mục đích của người dùng, bằng cách sử dụng thuật toán Support Vector Machine (SVM) 
+đào tạo trên tập dữ liệu chứa lời nhắc mẫu của người dùng cùng với mục đích của họ.
+
+Dựa trên ý định được phân loại, trợ lý thực hiện đúng chức năng, 
+chức năng này được tìm thấy trong thư mục /ai_functions. 

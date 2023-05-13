@@ -1,0 +1,81 @@
+﻿text,intent
+chào,greeting
+chào bạn,greeting
+xin chào,greeting
+Chào trợ lý,greeting
+Chào nha,greeting
+Alo,greeting
+Hi,greeting
+
+Tạm biệt,leaving
+Tạm biệt và hẹn gặp lại,leaving
+Hẹn gặp lại,leaving
+
+Học phí ở trường đại học thường được tính như thế nào,tuition
+Học phí bao nhiêu một năm,tuition
+Có những khoản hỗ trợ nào để giảm thiểu chi phí học tập cho sinh viên,tuition
+Thủ tục đóng học phí ở trường đại học như thế nào,tuition
+Học phí đóng bao nhiêu lần trong một năm học,tuition
+Có những yêu cầu gì để được giảm giá học phí,tuition
+Làm thế nào để đăng ký học bổng,tuition
+Học phí có thể được hoàn trả trong trường hợp nào,tuition
+Trường đại học có thể tăng học phí vào những năm sau không,tuition
+Tiền học phí đóng ở đâu,tuition
+Tiêu chí để được xét học bổng là gì,tuition
+Hồ sơ xét học bổng gồm những gì,tuition
+Hình thức xét chọn học bổng ra sao,tuition
+
+Cơ cấu tổ chức phòng ban trong trường đại học là gì,department
+Các phòng ban trong trường đại học thường bao gồm những phòng ban nào,department
+Mỗi phòng ban có chức năng và nhiệm vụ gì,department
+Làm thế nào để liên lạc với các phòng ban,department
+Có thể tìm hiểu thông tin về các phòng ban ở đâu,department
+Có thể xem lịch học của các lớp khác được không,department
+Phòng nào trong trường chịu trách nhiệm về việc quản lý đào tạo và công tác sinh viên,department
+Tôi có thể liên hệ với phòng nào để biết thông tin về ghi danh đôi ngoại,department
+Phòng nào trong trường chịu trách nhiệm về việc thanh tra và giải quyết khiếu nại,department
+Tôi có thể liên hệ với phòng nào để biết thông tin về tuyển sinh,department
+Phòng nào trong trường chịu trách nhiệm về việc quản lý kỹ thuật và cơ sở vật chất,department
+Tôi có thể liên hệ với phòng nào để biết thông tin về kế toán và thanh toán học phí,department
+Phòng nào trong trường chịu trách nhiệm về việc tổ chức các hoạt động đoàn hội,department
+Tôi có thể liên hệ với phòng nào để biết thông tin về các hoạt động đoàn hội,department
+Tôi có thể liên hệ với phòng nào để biết thông tin về các khóa học và chương trình đào tạo,department
+Tôi có thể liên hệ với phòng nào để biết thông tin về các dịch vụ hỗ trợ sinh viên,department
+
+Bạn xem giúp mình lịch học với,schedule
+Bạn có thể xem giúp mình lịch học được không,schedule
+Bạn giúp mình xem lịch học được không,schedule
+Bạn có thể kiểm tra lịch học cho mình được không,schedule
+Bạn giúp mình kiểm tra lịch học được không,schedule
+Bạn có thể xem giúp mình lịch học với,schedule
+Bạn có thể kiểm tra giúp mình lịch học được không,schedule
+Bạn có thể xem giúp mình lịch học được chứ,schedule
+Bạn giúp mình xem lịch học được chứ,schedule
+
+Bạn xem điểm số giúp mình,pointlookup
+Bạn xem điểm giúp mình,pointlookup
+Bạn cho mình xem bảng điểm với,pointlookup
+Bạn có thể cho tôi xem bảng điểm của tôi được không,pointlookup
+Tôi muốn xem bảng điểm của mình,pointlookup
+Bạn có thể giúp tôi xem bảng điểm được không,pointlookup
+Tôi cần xem bảng điểm của mình,pointlookup
+Bạn vui lòng cho tôi xem bảng điểm của tôi,pointlookup
+Tôi muốn kiểm tra bảng điểm của mình,pointlookup
+Tôi muốn biết điểm số của mình trong bảng điểm,pointlookup
+
+Điểm số của sinh viên được tính như thế nào,point
+Điểm số có ảnh hưởng đến việc xét tốt nghiệp không,point
+Điểm số có ảnh hưởng đến việc xin học bổng không,point
+Điểm số có thể được cải thiện không,point
+Điểm số có thể được sửa đổi không,point
+Điểm số có ảnh hưởng đến việc xin việc làm không,point
+Điểm số có thể được sử dụng để đánh giá năng lực của sinh viên không,point
+Làm thế nào để xem bảng điểm của tôi,point
+Tôi có thể biết được điểm số của mình trong từng môn học không,point
+Điểm số trung bình (GPA) là gì,point
+Làm thế nào để tính GPA,point
+Tôi có thể cải thiện GPA của mình không,point
+Bảng điểm có ảnh hưởng gì đến việc xin việc làm không,point
+Tôi có thể yêu cầu xem lại bài thi của mình không,point
+Tôi có thể biết được xếp loại học lực của mình không,point
+Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào,point
