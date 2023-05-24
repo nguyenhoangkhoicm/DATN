@@ -37,5 +37,168 @@
     ],
     "Hình thức xét chọn học bổng ra sao":[
         "Ban Quản lý Đào tạo và Công tác Sinh viên tổng hợp hồ sơ đăng ký, tham mưu thành lập hội đồng xét và chọn ra những sinh viên đạt tiêu chí để trao tặng học bổng."
-    ]
+    ],
+
+    "Học phí có thể được trả chia thành nhiều đợt không":[
+        "Có học phí có thể được trả chia thành nhiều đợt."
+    ],
+    "Làm thế nào để biết được mức học phí của trường":[
+        "Để biết được mức học phí của trường, bạn có thể truy cập trang web của trường hoặc liên hệ với phòng đào tạo để biết thêm chi tiết."
+    ],
+    "Học phí có được giảm giá cho sinh viên đăng ký sớm không":[
+        "Trường có chương trình giảm giá học phí cho sinh viên đăng ký sớm, tuy nhiên điều này còn tùy thuộc vào chính sách của trường"
+    ],
+    "Học phí có được giảm giá cho sinh viên đăng ký nhiều môn học không":[
+        "Trường chưa có chương trình giảm giá học phí cho sinh viên đăng ký nhiều môn học"
+    ],
+    "Học phí của Trường Đại học Bình Dương là bao nhiêu?": [
+        "Học phí của Trường Đại học Bình Dương khác nhau cho từng ngành học và cấp độ đào tạo. Bạn có thể tìm thông tin chi tiết về học phí trên trang web của trường."
+      ],
+      "Trường có chính sách hỗ trợ chi phí học tập cho sinh viên không?": [
+        "Có, Trường Đại học Bình Dương có nhiều chính sách hỗ trợ chi phí học tập cho sinh viên, bao gồm các loại học bổng, vay vốn sinh viên và các chương trình hỗ trợ khác."
+      ],
+      "Các loại học bổng nào được cung cấp bởi trường?": [
+        "Trường cung cấp nhiều loại học bổng, bao gồm học bổng chất lượng cao, học bổng khuyến khích học tập, học bổng khuyến khích nghiên cứu và học bổng thể thao."
+      ],
+      "Sinh viên có thể nộp đơn xin hỗ trợ chi phí học tập khi nào?": [
+        "Thông thường, sinh viên có thể nộp đơn xin hỗ trợ chi phí học tập trước khi đăng ký học kỳ mới hoặc trong thời gian học kỳ."
+      ],
+      "Học phí của trường có thể trả theo đợt không?": [
+        "Có, trường cho phép sinh viên trả học phí theo đợt trong suốt thời gian học."
+      ],
+      "Sinh viên có thể trả học phí qua các phương thức nào?": [
+        "Sinh viên có thể trả học phí qua các phương thức chuyển khoản ngân hàng, thẻ tín dụng hoặc trực tiếp tại ngân hàng."
+      ],
+      "Trường có chính sách miễn giảm học phí cho sinh viên nghèo không?": [
+        "Có, trường có chính sách miễn giảm học phí cho sinh viên có hoàn cảnh khó khăn hoặc thuộc diện đối tượng ưu tiên được miễn giảm học phí."
+      ],
+      "Sinh viên có thể đăng ký vay vốn để trả học phí không?": [
+        "Có, trường cung cấp chương trình vay vốn sinh viên với lãi suất ưu đãi để giúp sinh viên trả học phí."
+      ],
+      "Trường có chính sách đặc biệt cho sinh viên đăng ký học nhiều hơn một ngành không?": [
+        "Có, trường có chính sách giảm học phí cho sinh viên đăng ký học nhiều hơn một ngành."
+      ],
+      "Sinh viên có thể đăng ký họcphần riêng lẻ không?": [
+        "Có, sinh viên có thể đăng ký học phần riêng lẻ và trả học phí tương ứng với số tín chỉ của môn học đó."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên xuất sắc tiếp quê hương không?": [
+        "Có, trường có chính sách giảm học phí cho sinh viên xuất sắc quê hương."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên có thành tích xuất sắc không?": [
+        "Có, trường có chính sách giảm học phí cho sinh viên có thành tích xuất sắc trong học tập và hoạt động sinh viên."
+      ],
+      "Sinh viên có thể xin miễn giảm học phí khi bị ảnh hưởng bởi dịch COVID-19 không?": [
+        "Có, trường có chính sách miễn giảm học phí và hỗ trợ chi phí học tập cho sinh viên bị ảnh hưởng bởi dịch COVID-19."
+    ],
+    "Trường có chính sách hỗ trợ chi phí ăn ở cho sinh viên không?": [
+        "Có, trường có chính sách hỗ trợ chi phí ăn ở cho sinh viên bằng cách cung cấp các ký túc xá và nhà ăn sinh viên."
+    ],
+    "Sinh viên có thể đăng ký học tập trực tuyến và trả học phí trực tuyến không?": [
+        "Có, trường cho phép sinh viên đăng ký học tập trực tuyến và trả học phí trựctuyến thông qua các phương thức trực tuyến như internet banking hoặc thanh toán trực tuyến."
+    ],
+    "Trường có chính sách hỗ trợ chi phí cho sinh viên tham gia các hoạt động ngoại khóa không?": [
+        "Có, trường có chính sách hỗ trợ chi phí cho sinh viên tham gia các hoạt động ngoại khóa như du lịch, thể thao hoặc các hoạt động văn hóa."
+    ],
+    "Sinh viên có thể trả học phí bằng tiền mặt không?": [
+        "Có, sinh viên có thể trả học phí bằng tiền mặt tại các điểm giao dịch của trường."
+    ],
+    "Trường có chính sách hỗ trợ chi phí cho sinh viên tham gia các chương trình học tập quốc tế không?": [
+        "Có, trường có chính sách hỗ trợ chi phí cho sinh viên tham gia các chương trình học tập quốc tế, bao gồm hỗ trợ tài chínhvà chương trình trao đổi sinh viên."
+    ],
+    "Sinh viên có thể đăng ký học tập theo hình thức trả góp không?": [
+        "Có, trường có chính sách cho phép sinh viên trả học phí theo hình thức trả góp trong suốt thời gian học."
+    ],
+    "Trường có chính sách giảm học phí cho sinh viên có hoàn cảnh đặc biệt không?": [
+        "Có, trường có chính sách giảm học phí cho sinh viên có hoàn cảnh đặc biệt như sinh viên có hoàn cảnh khó khăn, sinh viên có hoàn cảnh gia đình đặc biệt hoặc sinh viên có khả năng học tập xuất sắc."
+    ],
+    "Sinh viên có thể đăng ký học tập và trả học phí qua điện thoại không?": [
+        "Có, sinh viên có thể đăng ký học tập và trả học phí qua điện thoại thông qua các ứng dụng mobile banking hoặc các hệ thốngthanh toán trực tuyến."
+    ],
+    "Trường có chính sách hỗ trợ chi phí cho sinh viên thực tập không?": [
+        "Có, trường có chính sách hỗ trợ chi phí cho sinh viên thực tập bao gồm hỗ trợ tài chính và hỗ trợ tìm kiếm cơ hội thực tập."
+    ],
+    "Sinh viên có thể đăng ký học tập và trả học phí qua thư tín không?": [
+        "Không, hiện tại trường không cho phép sinh viên đăng ký học tập và trả học phí qua thư tín."
+    ],
+    "Sinh viên có thể đăng ký học phần thêm và trả thêm học phí không?": [
+        "Có, sinh viên có thể đăng ký học phần thêm và trả thêm học phí tương ứng trong thời gian quy định."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên đăng ký học phần ngoài chương trình không?": [
+        "Không, hiện tại trường không có chính sách giảm học phí cho sinh viên đăng ký học phần ngoài chương trình."
+      ],
+      "Sinh viên có thể đăng ký học phần trước và trả học phí sau không?": [
+        "Không, trường yêu cầu sinh viên phải trả học phí trước khi đăng ký học phần."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên có hoàn cảnh khó khăn không?": [
+        "Có, trường có chính sách giảm học phí cho sinh viên có hoàn cảnh khó khăn hoặc thuộc diện đối tượng ưu tiên được miễn giảm học phí."
+      ],
+      "Sinh viên có thể đăng ký học phần của ngành khác và trả thêm học phí không?": [
+        "Có, sinh viên có thể đăng ký học phần của ngành khác và trả thêm học phí tương ứng với số tín chỉ của môn học đó."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên đăng ký học phần vượt số tín chỉ quy định không?": [
+        "Không, trường không có chính sách giảm học phí cho sinh viên đăng ký học phần vượt số tín chỉ quy định."
+      ],
+      "Sinh viên có thể đăng ký học phần trong kỳ nghỉ hè không?": [
+        "Có, trường cho phép sinh viên đăng ký học phần trong kỳ nghỉ hè và trả học phí tương ứng."
+      ],
+      "Trường có chính sách đặc biệt cho sinh viên đăng ký học phần trong kỳ nghỉ hè không?": [
+        "Có, trường có chính sách giảm học phí cho sinh viên đăng ký học phần trong kỳ nghỉ hè."
+      ],
+      "Sinh viên có thể đăng ký học phần kiểm tra lại không?": [
+        "Có, sinh viên có thể đăng ký học phần kiểm tra lại và trả học phí tương ứng."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên đăng ký học phần kiểm tra lại không?": [
+        "Không, trường không có chính sách giảm học phí cho sinh viên đăng ký học phần kiểm tra lại."
+      ],
+      "Sinh viên có thể đăng ký học phần tự chọn không?": [
+        "Có, sinh viên có thể đăng ký học phần tự chọn và trả học phí tương ứng."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên đăng ký học phần tự chọn không?": [
+        "Không, trường không có chính sách giảm học phí cho sinh viên đăng ký học phần tự chọn."
+      ],
+      "Trường có chương trình học bổng cho sinh viên không?": [
+        "Có, trường có chương trình học bổng cho sinh viên có thành tích học tập xuất sắc và có hoàn cảnh khó khăn."
+      ],
+      "Học bổng của trường được tài trợ bởi ai?": [
+        "Học bổng của trường được tài trợ bởi các đơn vị và cá nhân có nhu cầu đóng góp vào việc giáo dục tại trường."
+      ],
+      "Sinh viên có thể nộp đơn xin học bổng khi nào?": [
+        "Sinh viên có thể nộp đơn xin học bổng vào thời điểm trường công bố và quy định."
+      ],
+      "Hồ sơ xin học bổng cần bao gồm những giấy tờ gì?": [
+        "Hồ sơ xin học bổng cần bao gồm các giấy tờ như bảng điểm,giấy giới thiệu của giáo viên chủ nhiệm, giấy tờ chứng minh hoàn cảnh gia đình và các giấy tờ khác tùy thuộc vào từng chương trình học bổng cụ thể."
+      ],
+      "Học bổng của trường có giá trị bao lâu?": [
+        "Giá trị của học bổng từ trường có thể khác nhau tùy thuộc vào từng chương trình học bổng cụ thể."
+      ],
+      "Sinh viên có thể nhận được nhiều học bổng cùng lúc không?": [
+        "Sinh viên có thể được nhận nhiều học bổng cùng lúc tùy thuộc vào quy định của từng chương trình học bổng cụ thể."
+      ],
+      "Học bổng của trường có giới hạn số lượng không?": [
+        "Có, học bổng của trường có giới hạn số lượng và được trao cho những sinh viên đáp ứng các tiêu chí của từng chương trình học bổng cụ thể."
+      ],
+      "Sinh viên có thể được miễn giảm học phí nếu là con thơ của cán bộ giảng viên trong trường không?": [
+        "Có, sinh viên là con thơ của cán bộ giảng viên trong trường có thể được miễn giảm học phí theo quy định của trường."
+      ],
+      "Trường có chính sách hỗ trợ vay vốn cho sinh viên đóng học phí không?": [
+        "Có, trường có chính sách hỗ trợ vay vốn cho sinh viên đóng học phí thông qua các ngân hàng đối tác của trường."
+      ],
+      "Trường có chính sách miễn giảm học phí cho sinh viên có thành tích thể thao xuất sắc không?": [
+        "Có, trường có chính sách miễn giảm học phí cho sinh viên có thành tích thể thao xuất sắc và đại diện cho trường tham gia các giải đấu, cuộc thi thể thao."
+      ],
+      "Sinh viên có thể đăng ký học phần ở trường khác và chuyển tín chỉ về trường không?": [
+        "Có, sinh viên có thể đăng ký học phần ở trường khác và chuyển tín chỉ về Trường Đại học Bình Dương theo quy định của Bộ Giáo dục và Đào tạo."
+      ],
+      "Trường có chính sách miễn giảm học phí cho sinh viên đăng ký học phần ở trường khác và chuyển tín chỉ về trường không?": [
+        "Không, trường không có chính sách miễn giảm học phí cho sinh viên đăng ký học phần ở trường khác và chuyển tín chỉ về trường."
+      ],
+      "Sinh viên có thể đăng ký học phần qua hình thức học trực tuyến không?": [
+        "Có, trường cho phép sinh viên đăng ký học phần qua hình thức học trực tuyến và trả học phí tương ứng."
+      ],
+      "Trường có chính sách giảm học phí cho sinh viên đăng ký học phần qua hình thức học trực tuyến không?": [
+        "Hiện tại, trường chưa có chính sách giảm học phí cho sinh viên đăng ký học phần qua hình thức học trực tuyến."
+      ]
+    
+
+    
 }

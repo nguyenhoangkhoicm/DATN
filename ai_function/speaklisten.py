@@ -6,7 +6,6 @@ import pvporcupine
 import struct
 import pyaudio,json,random
 
-
 class speaker(object):
     
     def speak(text):
@@ -18,11 +17,13 @@ class speaker(object):
     
         print("🤖: " + text)
         tts = gTTS(text=text,lang='vi', slow=False)
+      
         filename = 'voice.mp3'
         tts.save(filename)
         playsound.playsound(filename)
         os.remove(filename)
-   
+        return text
+
     def siri():
         name= "hey siri"
         #  khởi tạo các biến.
@@ -77,7 +78,6 @@ class speaker(object):
                     audio_stream.close()
                 break
                 
-
     def command(count=0):
         playsound.playsound("./sound/Ping.mp3", False)
         r = sr.Recognizer()

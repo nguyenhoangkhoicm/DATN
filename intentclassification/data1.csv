@@ -1,15 +1,115 @@
 ﻿text,intent
+
 chào,greeting
 chào bạn,greeting
 xin chào,greeting
 Chào trợ lý,greeting
 Chào nha,greeting
-Alo,greeting
-Hi,greeting
 
 Tạm biệt,leaving
 Tạm biệt và hẹn gặp lại,leaving
 Hẹn gặp lại,leaving
+Hẹn gặp lại sau nhé,leaving
+Chúc bạn một ngày tốt lành,leaving
+Cảm ơn bạn đã giúp tôi,leaving
+Tôi sẽ trở lại nếu cần,leaving
+Chúc bạn có một ngày vui vẻ,leaving
+Hãy giữ an toàn,leaving
+Chào và hẹn gặp lại,leaving
+Cảm ơn và chúc một ngày tốt lành,leaving
+Chúc một ngày tốt lành và thành công,leaving
+Hãy giữ sức khỏe và hạnh phúc,leaving
+Tạm biệt và chúc mừng ngày mới,leaving
+Cảm ơn và hẹn gặp lại,leaving
+Chúc bạn một ngày vui vẻ và năng động,leaving
+Chúc bạn thành công trong công việc của mình,leaving
+Hãy giữ tinh thần lạc quan và tự tin,leaving
+Cảm ơn bạn đã giúp tôi thông qua cuộc trò chuyện này,leaving
+Chúc bạn có một ngày đầy năng lượng,leaving
+Tạm biệt và mong được gặp lại bạn,leaving
+Hãy giữ mạnh khỏe và hạnh phúc,leaving
+Chúc bạn may mắn và thành công,leaving
+Cảm ơn bạn đã giúp tôi giải quyết vấn đề của mình,leaving
+Hãy giữ an toàn và hạnh phúc,leaving
+Tạm biệt và chúc một ngày tốt lành,leaving
+Chúc cho tất cả những gì bạn mong muốn đều thành hiện thực,leaving
+Cảm ơn vì đã giúp tôi tiết kiệm thời gian và nỗ lực,leaving
+Hãy giữ tâm trí tỉnh táo và tư duy sáng suốt,leaving
+Tạm biệt và chúc cho thành công đến với bạn,leaving
+Cảm ơn bạn đã trò chuyện với tôi,leaving
+Hãy giữ một tinh thần tích cực và niềm tin vào bản thân,leaving
+Chúc bạn một ngày đầy niềm vui và sự thành công,leaving
+Tạm biệt và chúc một ngày thật tuyệt vời,leaving
+Cảm ơn bạn vì đã giúp tôi giải quyết vấn đề của mình,leaving
+Hãy giữ một tinh thần đổi mới và sáng tạo,leaving
+Tạm biệt và chúc bạn một ngày đầy năng lượng và sức khỏe,leaving
+Cảm ơn bạn đã giúp tôi hiểu rõ hơn về một vấn đề,leaving
+Hãy giữ sự tập trung và tinh thần quyết tâm trong công việc của bạn,leaving
+Chúc bạn thành công trong mọi lĩnh vực của cuộc sống,leaving
+Tạm biệt và chúc cho tương lai của bạn đầy triển vọng và thành công,leaving
+Cảm ơn bạn vì đã trò chuyện với tôi hãy giữ một tinh thần mở và chủ động,leaving
+Hãy giữ sự tự tin và khả năng giải quyết vấn đề của bạn,leaving
+Chúc bạn một ngày đầy may mắn và niềm vui,leaving
+Tạm biệt và hẹn gặp lại bạn sớm nhất,leaving
+Cảm ơn bạn vì đã giúp tôi tiết kiệm thời gian và cung cấp thông tin hữu ích,leaving
+Hãy giữ một tâm trí sáng suốt và đón nhận thử thách với một tinh thần mở,leaving
+Chúc bạn có một ngày đầy năng lượng và sự sáng tạo,leaving
+Tạm biệt và chúc bạn một ngày đầy ý nghĩa và thành công,leaving
+Cảm ơn bạn vì đã giúp tôi giải quyết vấn đề của mình một cách nhanh và chính xác,leaving
+Hãy giữ một tinh thần động viên và hỗ trợ người khác trong cuộc sống của bạn,leaving
+Tạm biệt và chúc cho những điều tốt đẹp nhất đến với bạn trong tương lai,leaving
+
+Bạn ngủ đi,sleep
+Trợ lý ơi hãy đi ngủ đi,sleep
+Lúc này trợ lý nên đi nghỉ một chút,sleep
+Hãy tắt đi và nghỉ ngơi trợ lý,sleep
+Trợ lý hãy ngủ một giấc để sạc năng lượng,sleep
+Bạn cần một giấc ngủ ngon trợ lý ơi,sleep
+Hãy để tôi và bạn ngủ trợ lý,sleep
+Bạn đã làm việc chăm chỉ giờ hãy nghỉ ngơi đi trợ lý,sleep
+Trợ lý đến giờ đi nghỉ rồi,sleep
+Hãy cùng nghỉ ngơi trợ lý ơi,sleep
+Đi ngủ thôi trợ lý,sleep
+Bạn đã làm tốt giờ hãy nghỉ ngơi trợ lý ạ,sleep
+Trợ lý hãy dừng lại và nghỉ ngơi một chút,sleep
+Giờ là lúc đi ngủ trợ lý,sleep
+Trợ lý cần một giấc ngủ tốt để cập nhật thông tin mới,sleep
+Hãy để tôi giải quyết trợ lý hãy đi ngủ đi,sleep
+Tôi sẽ lo công việc còn trợ lý thì hãy đi nghỉ ngơi,sleep
+Trợ lý đến giờ nghỉ ngơi rồi,sleep
+Hãy để tôi chăm sóc công việc trợ lý đi ngủ đi,sleep
+Trợ lý cần thời gian nghỉ ngơi hãy đi ngủ ngay,sleep
+Bạn đã làm rất tốt bây giờ hãy nghỉ ngơi trợ lý,sleep
+Trợ lý ơi cần một giấc ngủ ngon lành,sleep
+Đến lúc đi ngủ rồi trợ lý,sleep
+Hãy tắt đi và nghỉ ngơi trợ lý ạ,sleep
+Bạn cần giấc ngủ để tươi tắn trợ lý,sleep
+Trợ lý cần sức khỏe hãy đi ngủ ngay,sleep
+Đến giờ nghỉ ngơi rồi trợ lý ơi,sleep
+Hãy để tôi lo công việc trợ lý hãy đi ngủ đi,sleep
+Trợ lý hãy nghỉ ngơi một chút để sạc lại năng lượng,sleep
+Bạn đã làm việc hết sức giờ hãy nghỉ ngơi trợ lý,sleep
+Trợ lý cần một giấc ngủ tốt cho cơ thể,sleep
+Hãy để tôi chịu trách nhiệm trợ lý hãy đi ngủ đi,sleep
+Trợ lý cần thời gian nghỉ ngơi hãy tắt đi,sleep
+Bạn đã làm rất tốt bây giờ hãy nghỉ ngơi trợ lý,sleep
+Trợ lý ơi cần một giấc ngủ ngon lành,sleep
+Đến lúc đi ngủ rồi trợ lý,sleep
+Hãy tắt đi và nghỉ ngơi trợ lý ạ,sleep
+Bạn cần giấc ngủ để tươi tắn trợ lý,sleep
+Trợ lý cần sức khỏe hãy đi ngủ ngay,sleep
+Đến giờ nghỉ ngơi rồi trợ lý ơi,sleep
+Hãy để tôi lo công việc trợ lý hãy đi ngủ đi,sleep
+Trợ lý hãy nghỉ ngơi một chút để sạc lại năng lượng,sleep
+Bạn đã làm việc hết sức giờ hãy nghỉ ngơi trợ lý,sleep
+Trợ lý cần một giấc ngủ tốt cho cơ thể,sleep
+Hãy để tôi chịu trách nhiệm trợ lý hãy đi ngủ đi,sleep
+Trợ lý cần thời gian nghỉ ngơi hãy tắt đi,sleep
+Bạn đã làm rất tốt bây giờ hãy nghỉ ngơi trợ lý,sleep
+Trợ lý ơi cần một giấc ngủ ngon lành,sleep
+Đến lúc đi ngủ rồi trợ lý,sleep
+Hãy tắt đi và nghỉ ngơi trợ lý ạ,sleep
+Bạn cần ngủ đi,sleep
 
 Học phí ở trường đại học thường được tính như thế nào,tuition
 Học phí bao nhiêu một năm,tuition
@@ -24,6 +124,57 @@ Tiền học phí đóng ở đâu,tuition
 Tiêu chí để được xét học bổng là gì,tuition
 Hồ sơ xét học bổng gồm những gì,tuition
 Hình thức xét chọn học bổng ra sao,tuition
+Học phí có thể được trả chia thành nhiều đợt không,tuition
+Học phí của Trường Đại học Bình Dương là bao nhiêu?,tuition
+Trường có chính sách hỗ trợ chi phí học tập cho sinh viên không?,tuition
+Các loại học bổng nào được cung cấp bởi trường?,tuition
+Sinh viên có thể nộp đơn xin hỗ trợ chi phí học tập khi nào?,tuition
+Học phí của trường có thể trả theo đợt không?,tuition
+Sinh viên có thể trả học phí qua các phương thức nào?,tuition
+Trường có chính sách miễn giảm học phí cho sinh viên nghèo không?,tuition
+Sinh viên có thể đăng ký vay vốn để trả học phí không?,tuition
+Trường có chính sách đặc biệt cho sinh viên đăng ký học nhiều hơn một ngành không?,tuition
+Sinh viên có thể đăng ký học phần riêng lẻ không?,tuition
+Trường có chính sách giảm học phí cho sinh viên xuất sắc tiếp quê hương không?,tuition
+Trường có chính sách giảm học phí cho sinh viên có thành tích xuất sắc không?,tuition
+Sinh viên có thể xin miễn giảm học phí khi bị ảnh hưởng bởi dịch COVID-19 không?,tuition
+Trường có chính sách hỗ trợ chi phí ăn ở cho sinh viên không?,tuition
+Sinh viên có thể đăng ký học tập trực tuyến và trả học phí trực tuyến không?,tuition
+Trường có chính sách hỗ trợ chi phí cho sinh viên tham gia các hoạt động ngoại khóa không?,tuition
+Sinh viên có thể trả học phí bằng tiền mặt không?,tuition
+Trường có chính sách hỗ trợ chi phí cho sinh viên tham gia các chương trình học tập quốc tế không?,tuition
+Sinh viên có thể đăng ký học tập theo hình thức trả góp không?,tuition
+Trường có chính sách giảm học phí cho sinh viên có hoàn cảnh đặc biệt không?,tuition
+Sinh viên có thể đăng ký học tập và trả học phí qua điện thoại không?,tuition
+Trường có chính sách hỗ trợ chi phí cho sinh viên thực tập không?,tuition
+Sinh viên có thể đăng ký học tập và trả học phí qua thư tín không?,tuition
+Trường có chính sách giảm học phí cho sinh viên đăng ký học kỳ sớm không?,tuition
+Sinh viên có thể đăng ký học phần thêm và trả thêm học phí không,tuition
+Trường có chính sách giảm học phí cho sinh viên đăng ký học phần ngoài chương trình không,tuition
+Sinh viên có thể đăng ký học phần trước và trả học phí sau không,tuition
+Trường có chính sách giảm học phí cho sinh viên có hoàn cảnh khó khăn không,tuition
+Sinh viên có thể đăng ký học phần của ngành khác và trả thêm học phí không,tuition
+Trường có chính sách giảm học phí cho sinh viên đăng ký học phần vượt số tín chỉ quy định không,tuition
+Sinh viên có thể đăng ký học phần trong kỳ nghỉ hè không,tuition
+Trường có chính sách đặc biệt cho sinh viên đăng ký học phần trong kỳ nghỉ hè không,tuition
+Sinh viên có thể đăng ký học phần kiểm tra lại không,tuition
+Trường có chính sách giảm học phí cho sinh viên đăng ký học phần kiểm tra lại không,tuition
+Sinh viên có thể đăng ký học phần tự chọn không,tuition
+Trường có chính sách giảm học phí cho sinh viên đăng ký học phần tự chọn không,tuition
+Trường có chương trình học bổng cho sinh viên không,tuition
+Học bổng của trường được tài trợ bởi ai,tuition
+Sinh viên có thể nộp đơn xin học bổng khi nào,tuition
+Hồ sơ xin học bổng cần bao gồm những giấy tờ gì,tuition
+Học bổng của trường có giá trị bao lâu,tuition
+Sinh viên có thể nhận được nhiều học bổng cùng lúc không,tuition
+Học bổng của trường có giới hạn số lượng không,tuition
+Sinh viên có thể được miễn giảm học phí nếu là con thơ của cán bộ giảng viên trong trường không,tuition
+Trường có chính sách hỗ trợ vay vốn cho sinh viên đóng học phí không,tuition
+Trường có chính sách miễn giảm học phí cho sinh viên có thành tích thể thao xuất sắc không,tuition
+Sinh viên có thể đăng ký học phần ở trường khác và chuyển tín chỉ về trường không,tuition
+Trường có chính sách miễn giảm học phí cho sinh viên đăng ký học phần ở trường khác và chuyển tín chỉ về trường không,tuition
+Sinh viên có thể đăng ký học phần qua hình thức học trực tuyến không,tuition
+Trường có chính sách giảm học phí cho sinh viên đăng ký học phần qua hình thức học trực tuyến không,tuition
 
 Cơ cấu tổ chức phòng ban trong trường đại học là gì,department
 Các phòng ban trong trường đại học thường bao gồm những phòng ban nào,department
@@ -41,6 +192,56 @@ Phòng nào trong trường chịu trách nhiệm về việc tổ chức các h
 Tôi có thể liên hệ với phòng nào để biết thông tin về các hoạt động đoàn hội,department
 Tôi có thể liên hệ với phòng nào để biết thông tin về các khóa học và chương trình đào tạo,department
 Tôi có thể liên hệ với phòng nào để biết thông tin về các dịch vụ hỗ trợ sinh viên,department
+Ban hành chính Thanh tra đảm nhận các nhiệm vụ gì,department
+Làm thế nào để liên hệ với Ban quản lý đào tạo công tác sinh viên,department
+Phòng kỹ thuật của trường có chức năng gì,department
+Phòng ghi danh đối ngoại giúp đối tượng nào,department
+Phòng tuyển sinh của trường có những thông tin nào về đăng ký nhập học,department
+Làm thế nào để đăng ký nhập học vào trường,department
+Trường có chính sách hỗ trợ tài chính cho sinh viên không,department
+Văn phòng đoàn hội có những hoạt động gì,department
+Làm thế nào để liên hệ với Văn phòng đoàn hội,department
+Phòng kế toán của trường đảm nhận các nhiệm vụ gì,department
+Trường có chính sách hỗ trợ học bổng cho sinh viên không,department
+Làm thế nào để đăng ký xét tuyển học bổng tại trường,department
+Trường có cơ sở vật chất đáp ứng yêu cầu học tập của sinh viên không,department
+Ban quản lý đào tạo công tác sinh viên có chức năng gì,department
+Làm sao để biết thông tin về lịch học và giảng viên của mình,department
+Làm thế nào để đăng ký học các môn học tại trường,department
+Trường có cơ sở vật chất đáp ứng yêu cầu về thể thao và giải trí của sinh viên không,department
+Trường có hỗ trợ tư vấn nghề nghiệp cho sinh viên không,department
+Phòng tuyển sinh của trường có những chính sách ưu đãi gì,department
+Làm thế nào để đăng ký dự thi vào trường,department
+Trường có cơ sở vật chất đáp ứng yêu cầu về an ninh và an toàn của sinh viên không,department
+Trường có chính sách hỗ trợ cho sinh viên nước ngoài không,department
+Làm thế nào để đăng ký thực tập tại trường,department
+Trường có chương trình học tiếng Anh không,department
+Làm thế nào để biết thông tin về các hoạt động ngoại khóa của trường,department
+Ban hành chính Thanh tra có chức năng giải quyết khiếu nại của sinh viên không,department
+Làm thế nào để yêu cầu giấy chứng nhận tốt nghiệp,department
+Trường có chương trình học thạc sĩ không,department
+Phòng kỹ thuật có hỗ trợ các khóa học về kỹ thuật máy tính không,department
+Trường có chương trình học tiếng Nhật không,department
+Làm thế nào để yêu cầu xét tốt nghiệp đợt cuối,department
+Văn phòng Đoàn hội có cung cấp dịch vụ hỗ trợ tìm việc làm cho sinh viên không,department
+Phòng tuyển sinh của trường có hỗ trợ thủ tục xét tuyển đặc biệt cho những trường hợp khó khăn không,department
+Làm thế nào để yêu cầu cấp lại bằng đại học,department
+Trường có chương trình học bổng cho sinh viên nghèo không,department
+Phòng Khảo thí có chức năng gì trong trường,department
+Làm thế nào để yêu cầu hỗ trợ về tài chính cho việc học,department
+Trường có chính sách hỗ trợ sinh viên tham gia các hoạt động ngoại khóa không,department
+Văn phòng Khoa học công nghệ có chức năng gì trong trường,department
+Trường có chương trình học tiếng Anh không,department
+Phòng Hành chính tài chính có chức năng gì trong trường,department
+Làm thế nào để yêu cầu xin giấy khai sinh,department
+Trường có chương trình học các ngôn ngữ khác không,department
+Văn phòng Công tác sinh viên có chức năng gì trong trường,department
+ Làm thế nào để yêu cầu cấp lại thẻ sinh viên,department
+Trường có chương trình học liên kết với các trường đại học quốc tế không,department
+Phòng Hợp tác quốc tế có chức năng gì trong trường,department
+Trường có chính sách hỗ trợ sinh viên trong việc thực tập không,department
+Phòng Kế hoạch tài chính có chức năng gì trong trường,department
+Làm thế nào để yêu cầu hỗ trợ về chương trình học,department
 
 Bạn xem giúp mình lịch học với,schedule
 Bạn có thể xem giúp mình lịch học được không,schedule
@@ -51,6 +252,56 @@ Bạn có thể xem giúp mình lịch học với,schedule
 Bạn có thể kiểm tra giúp mình lịch học được không,schedule
 Bạn có thể xem giúp mình lịch học được chứ,schedule
 Bạn giúp mình xem lịch học được chứ,schedule
+Bạn có thể cho tôi xem lịch học được không,schedule
+Tôi cần kiểm tra lịch học của mình có thể xem giúp tôi,schedule
+Tôi không nhớ lịch học của mình bạn có thể cho tôi xem lại được không,schedule
+Bạn có thể gửi cho tôi lịch học của mình qua email được không,schedule
+Tôi cần xem lịch học để có thể sắp xếp thời gian làm việc của mình,schedule
+Tôi muốn biết lịch học của mình để có thể chuẩn bị tốt cho các bài kiểm tra và bài tập,schedule
+Tôi đang có rắc rối với lịch học của mình bạn có thể giúp tôi xem lại được không,schedule
+Tôi đang muốn kiểm tra lịch học của mình để tiện cho việc sắp xếp thời gian đi học,schedule
+Tôi cần xem lịch học để biết được thời gian của các buổi học và đảm bảo không bỏ sót bất kỳ buổi nào,schedule
+Bạn có thể cho tôi biết lịch học của mình để tôi có thể chuẩn bị trước cho các bài giảng bài tập,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và đảm bảo không bị trùng lịch với các hoạt động khác,schedule
+Tôi muốn xem lịch học để biết được thời gian của các buổi học và chuẩn bị trước cho các bài tập,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp,schedule
+Bạn có thể cho tôi xem lịch học để tôi có thể đăng ký các hoạt động ngoại khóa phù hợp,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp lịch làm việc của mình,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể điều chỉnh các kế hoạch cá nhân của mình,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và đảm bảo tham gia đầy đủ các buổi học,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình của mình,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và đảm bảo không bỏ lỡ bất kỳ buổi nào,schedule
+Bạn có thể cho tôi xem lịch học để tôi có thể sắp xếp thời gian làm việc và học tập hợp lý,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi lại phù hợp,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể đảm bảo tham gia đầy đủ các hoạt động học tập,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các môn học khác,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình làm việc của mình,schedule
+Bạn có thể giúp tôi kiểm tra lịch học của mình để tôi có thể sắp xếp thời gian đi học và đi lại phù hợp,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các hoạt động khác,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể chuẩn bị trước cho các bài kiểm tra và bài tập,schedule
+Tôi muốn kiểm tra lịch học của mình để biết thời gian của các buổi học và có thể xem xét thời gian cho các hoạt động ngoại khóa khác,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các môn học khác trong cùng kỳ học,schedule
+Bạn có thể cho tôi xem lịch học để tôi có thể sắp xếp thời gian học tập cho phù hợp với lịch trình cá nhân,schedule
+Tôi muốn kiểm tra lịch học của mình để biết thời gian của các buổi học và có thể sắp xếp thời gian làm việc khác phù hợp,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi lại phù hợp với lịch trình học tập,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian cho các hoạt động tập thể khác,schedule
+Tôicần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các kế hoạch dài hạn của mình,schedule
+Bạn có thể giúp tôi xem lại lịch học để tôi có thể đảm bảo không bị trùng lịch với các hoạt động khác,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi học cho phù hợp với lịch trình của mình,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình cá nhân của mình,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể đăng ký các lớp học thêm phù hợp,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi lại cho phù hợp với lịch trình học tập của mình,schedule
+Tôi muốn kiểm tra lịch học của mình để đảm bảo không bỏ lỡ bất kỳ buổi học hay các hoạt động học tập nào,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các kế hoạch du lịch,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thờigian học tập cho phù hợp với lịch trình công việc của mình,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các hoạt động tình nguyện,schedule
+Tôi muốn kiểm tra lịch học của mình để đảm bảo có đủ thời gian cho các hoạt động giải trí và thư giãn,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các hoạt động thể thao,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với sở thích cá nhân,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể chuẩn bị tốt hơn cho các bài kiểm tra và bài tập,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình làm việc của mình,schedule
+Tôi cần xem lịch học để biết thời gian của các buổi học và có thể đảm bảo tham gia đầy đủ các hoạt động học tập,schedule
+Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể đăng ký các khóa học trực tuyến phù hợp với lịch trình của mình,schedule
 
 Bạn xem điểm số giúp mình,pointlookup
 Bạn xem điểm giúp mình,pointlookup
@@ -62,6 +313,55 @@ Tôi cần xem bảng điểm của mình,pointlookup
 Bạn vui lòng cho tôi xem bảng điểm của tôi,pointlookup
 Tôi muốn kiểm tra bảng điểm của mình,pointlookup
 Tôi muốn biết điểm số của mình trong bảng điểm,pointlookup
+Bạn có thể giúp tôi xem điểm số được không ,pointlookup
+Tôi cần kiểm tra điểm số của mình bạn có thể giúp tôi xem lại được không ,pointlookup
+Tôi muốn biết điểm số của mình bạn có thể xem giúp tôi ,pointlookup
+Bạn có thể gửi cho tôi bảng điểm của mình qua email được không ,pointlookup
+Tôi cần xem điểm số để biết mình đã đạt được mục tiêu học tập hay chưa,pointlookup
+Tôi muốn biết điểm số của mình để có thể cải thiện kết quả học tập,pointlookup
+Tôi không nhớ điểm số của mình bạn có thể giúp tôi xem lại được không ,pointlookup
+Tôi đang cần xem điểm số để chuẩn bị cho kỳ thi tốt nghiệp Tôi muốn biết điểm số của mình để chuẩn bị cho cuộc phỏng vấn tuyển dụng,pointlookup
+Bạn có thể giúp tôi xem điểm số để đánh giá khả năng được nhận học bổng không ,pointlookup
+Tôi cần xem điểm số để biết mình còn thiếu những kỹ năng nào trong lĩnh vực học tập của mình,pointlookup
+Tôi muốn xem điểm số để biết mình đã tiến bộ đáng kể hay chưa trong học tập,pointlookup
+Tôi cần biết điểm số của mình để có thể đưa ra phương án học tập phù hợp hơn,pointlookup
+Tôi muốn xem điểm số để biết mình có cần thay đổi phương pháp học tập hay không,pointlookup
+Tôi cần xem điểm số để chuẩn bị cho cuối kỳ học tập,pointlookup
+Tôi muốn biết điểm sốcủa mình để cải thiện kết quả trong các môn học tiếp theo,pointlookup
+Tôi cần xem điểm số để biết mình đã đạt yêu cầu đầu vào của các chương trình học tập,pointlookup
+Tôi muốn xem điểm số để đánh giá năng lực của mình trong lĩnh vực học tập,pointlookup
+Tôi cần xem điểm số để biết mình đã đáp ứng được yêu cầu của giảng viên hay chưa,pointlookup
+Tôi muốn biết điểm số của mình để có thể đưa ra phương án học tập phù hợp hơn trong tương lai,pointlookup
+Tôi cần xem điểm số để có thể chuẩn bị cho các kỳ thi tiếp theo,pointlookup
+Tôi muốn xem điểm số để biết mình có năng lực để đạt được các chứng chỉ liên quan đến lĩnh vực học tập của mình hay không,pointlookup
+Tôicần xem điểm số để đánh giá mức độ hiệu quả của phương pháp học tập mà tôi đang áp dụng,pointlookup
+Tôi muốn biết điểm số của mình để có thể đưa ra phương án học tập phù hợp hơn trong kỳ học tiếp theo,pointlookup
+Tôi cần xem điểm số để biết mình đã đáp ứng được các tiêu chí đánh giá của chương trình học tập hay chưa,pointlookup
+Tôi muốn xem điểm số để biết mình đã đạt được các mục tiêu học tập mình đề ra hay chưa,pointlookup
+Tôi cần xem điểm số để có thể chuẩn bị cho kế hoạch học tập trong tương lai,pointlookup
+Tôi muốn biết điểm số để có thể cải thiện mối quan hệ với giảng viên và các bạn cùng học,pointlookup
+Tôi cần xem điểm số để đánh giá khả năng của mình trong việc theo đuổi con đường học tập,pointlookup
+Tôi muốn xem điểm số để biết mình có cần tăng cường kiến thức hay không,pointlookup
+Tôi cần xem điểm số để có thể đưa ra phương án học tập phù hợp hơn trong tương lai,pointlookup
+Tôi muốn biết điểm số để xác định mức độ thành công trong học tập của mình,pointlookup
+Tôi cần xem điểm số để biết mình cần cải thiện điểm số ở những môn nào,pointlookup
+Tôi muốn xem điểm số để biết mình đã đạt được mục tiêu học tập của mình hay chưa,pointlookup
+Tôi cần xem điểm số để biết mình nên tập trung vào những môn học nào trong tương lai,pointlookup
+Tôi muốn biết điểm số để có thể đưa ra phương án học tập phù hợp hơn trong kỳ học tiếp theo,pointlookup
+Tôi cần xem điểm số để đánh giá năng lực của mình trong các lĩnh vực học tập khác nhau,pointlookup
+Tôi muốn xem điểm số để biết mình có cần tăng cường kỹ năng học tập hay không,pointlookup
+Tôi cần xem điểm số để biết mình đã đạt được các tiêu chuẩn đánh giá của chương trình học tập hay chưa,pointlookup
+Tôi muốn biết điểm số để có thể đưa ra phương án học tập phù hợp hơn cho tương lai,pointlookup
+Tôi cần xem điểm số để biết mình đã đáp ứng được yêu cầu của giảng viên trong các bài kiểm tra hay không,pointlookup
+Tôi muốn xem điểm số để biết mình có đủ năng lực để theo đuổi các chương trình học tập khác nhau,pointlookup
+Tôi cần xemđiểm số để biết mình cần cải thiện điểm số ở những môn học nào để có được kết quả tốt hơn,pointlookup
+Tôi muốn biết điểm số của mình để có thể đưa ra phương án học tập phù hợp hơn với mục tiêu nghề nghiệp của mình,pointlookup
+Tôi cần xem điểm số để biết mình đã đạt được các tiêu chí đánh giá của nhà tuyển dụng hay chưa,pointlookup
+Tôi muốn xem điểm số để biết mình có năng lực để theo đuổi các khóa học chuyên ngành hay không,pointlookup
+Tôi cần xem điểm số để biết mình cần cải thiện điểm số ở những môn học mà mình đang yếu,pointlookup
+Tôi muốn biết điểm số của mình để có thể đưa ra phương án học tập phù hợp hơn với kế hoạch sự nghiệp của mình,pointlookup
+Tôi cần xem điểm số để biết mình có đủ năng lực để tham gia các chương trình học tập quốc tế hay không,pointlookup
+Tôi muốn xem điểm số để biết mình đã đạt được các tiêu chí đánh giá của các tổ chức đánh giá năng lực hay chưa,pointlookup
 
 Điểm số của sinh viên được tính như thế nào,point
 Điểm số có ảnh hưởng đến việc xét tốt nghiệp không,point
@@ -79,3 +379,61 @@ Bảng điểm có ảnh hưởng gì đến việc xin việc làm không,point
 Tôi có thể yêu cầu xem lại bài thi của mình không,point
 Tôi có thể biết được xếp loại học lực của mình không,point
 Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào,point
+Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua,point
+Tôi có thể biết được điểm số trung bình của lớp mình không,point 
+Tôi có thể biết được xếp hạng của mình trong lớp không,point
+Tôi có thể biết được điểm số tối thiểu để đậu môn học này không,point
+Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không,point
+Tôi có thể biết được cách tính điểm số của giáo viên không,point
+Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không,point
+Tôi có thể biết được cách tính điểm trung bình cộng của toàn bộ khóa học không,point
+Tôi có thể yêu cầu xem lại bài thi của mình không,point
+Tôi có thể biết được xếp loại học lực của mình không,point
+Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào,point
+Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua,point
+Tôi có thể biết được điểm số trung bình của lớp mình không,point
+Tôi có thể biết được xếp hạng của mình trong lớp không,point
+Tôi có thể biết được điểm số tối thiểu để đậu môn học này không,point
+Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không,point
+Tôi có thể biết được cách tính điểm số của giáo viên không,point
+Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không,point
+Tôi có thể biết được cách tính điểm trung bình chung của toàn bộ khóa học không,point
+Tôi đã thi lại môn học liệu điểm số của mình sẽ được tính lại và cập nhật vào kết quả học tập của mình không,point
+Tôi có thể yêu cầu xem lại bản sao bài thi của mình không,point
+Tôi có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình không,point
+Tôi có thể cải thiện điểm số của mình bằng cách nộp bài tập thêm không,point
+Tôi có thể tham gia khóa học bồi dạy để cải thiện điểm số của mình không,point
+Tôi có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ không,point
+Tôi có thể yêu cầu giáo viên chấm lại bài thi của mình không,point
+Tôi có thể yêu cầu xem lại phiếu bầu cho điểm của mình không,point
+Tôi đã bỏ thi môn học liệu điểm số của môn học đó sẽ được tính vào kết quả học tập của tôi,point
+Tôi có thể yêu cầu giảng viên giải thích cho tôi về điểm số của mình không,point
+Tôi đã bị điểm 0 vì vi phạm quy định trong kỳ thi liệu tôi có thể yêu cầu xem lại quyết định của giáo viên không,point
+Tôi đã thi lại môn học liệu điểm số của lần thi lại sẽ được tính vào kết quả học tập của tôi,point
+Tôi muốn biết thêm về quy trình đánh giá điểm số tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi đã bị điểm số bị trừ vì vi phạm quy định trong lớp học liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không,point
+Tôi muốn biết thêm về quy định về việc nộp bài tập trễ tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi đã bị điểm số bị trừ vì nộp bài tập trễ liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không,point
+Tôi muốn biết thêm về quy định về việc nghỉ học tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc đăng ký học phần tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi đã đăng ký học phần nhưng muốn thay đổi liệu tôi có thể làm điều đó không,point
+Tôi có thể đăng ký học phần ở kỳ học sau không,point
+Tôi muốn biết thêm về quy định về việc đổi ngành học tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc chuyển trường tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi đã bị từ chối đăng ký học phần liệu tôi có thể yêu cầu xem lại quyết định của trường không,point
+Tôi muốn biết thêm về quy định về việc xét học bổng tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi đã nhận được thông báo về việc không đủ điều kiện để được xét học bổng liệu tôi có thể yêu cầu xem lại quyết định của trường không,point
+Tôi muốn biết thêm về quy định về việc đăng ký tốt nghiệp tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy trình xét duyệt đề tài nghiên cứu khoa học tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn đăng ký tham gia hoạt động ngoại khóa tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc phúc khảo kết quả học tập tại trường Đạihọc Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc cấp bằng tốt nghiệp tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc đăng ký học lại tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc nghỉ học tạm thời tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc xét tuyển đại học tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc xét tuyển thạc sĩ tại trường Đại học BìnhDương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc xét tuyển tiến sĩ tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc đăng ký học phần qua mạng tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc đăng ký học phần bằng hình thức thực tập tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+Tôi muốn biết thêm về quy định về việc thực hiện đồ án tốt nghiệp tại trường Đại học Bình Dương tôi nên liên hệ ai,point
+

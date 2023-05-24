@@ -1,4 +1,14 @@
 {
-    "bye" : ["Tạm biệt!", "Hẹn gặp lại!", "Tạm biệt!"],
-    "Tạm biệt" : ["Tạm biệt!", "Hẹn gặp lại!", "Tạm biệt!"]
+    "":[
+        "Chúc bạn một ngày tốt lành!",
+        "Hẹn gặp lại bạn!",
+        "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+        "Chúc bạn may mắn và thành công trong mọi việc.",
+        "Tạm biệt và hẹn gặp lại!",
+        "Chúc bạn một ngày vui vẻ!",
+        "Hy vọng sớm được phục vụ bạn lại.",
+        "Chào tạm biệt và chúc bạn một ngày tuyệt vời!",
+        "Cảm ơn bạn đã tin tưởng và sử dụng mình.",
+        "Tạm biệt và chúc bạn luôn vui vẻ!"
+    ]
 }

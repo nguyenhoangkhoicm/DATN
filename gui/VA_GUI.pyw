@@ -1,19 +1,23 @@
-from PyQt5 import QtCore,QtWidgets,QtGui
+from PyQt5 import QtCore, QtWidgets, QtGui
 from PyQt5.QtGui import QMovie
 
-import sys,subprocess,os
+import sys
+import subprocess
+import os
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(700, 700)
-        
+
         MainWindow.setWindowFlags(QtCore.Qt.FramelessWindowHint)
         MainWindow.setAttribute(QtCore.Qt.WA_TranslucentBackground)
+        # MainWindow.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint)
 
         icon = QtGui.QIcon("image/assistant_icon.ico")
         MainWindow.setWindowIcon(icon)
- 
+
         self.timer = QtCore.QTimer()
         self.timer.timeout.connect(self.updateGif)
         self.timer.start(1000)
@@ -25,14 +29,13 @@ class Ui_MainWindow(object):
         y = (screen_rect.height() - MainWindow.height()) / 2
         MainWindow.move(x, y)
 
-        
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
 
         # create label
         self.label = QtWidgets.QLabel(self.centralwidget)
-        self.label.setMinimumSize(QtCore.QSize(250, 250))
-        self.label.setMaximumSize(QtCore.QSize(250, 250))
+        self.label.setMinimumSize(QtCore.QSize(500, 500))
+        self.label.setMaximumSize(QtCore.QSize(500, 500))
         self.label.setObjectName("label")
 
         x = (MainWindow.width() - self.label.width()) / 2
@@ -42,14 +45,6 @@ class Ui_MainWindow(object):
         # add label to main window
         MainWindow.setCentralWidget(self.centralwidget)
 
-        # set qmovie as label
-    # def updateGif(self):
-    #     if os.path.exists('isPlayingSound.tmp'):
-    #         self.movie = QMovie("2.gif")
-    #         self.label.setMovie(self.movie)
-    #         self.movie.start()
-    #     else:
-    #         self.label.clear()
     def updateGif(self):
         if os.path.exists('voice.mp3'):
             self.movie = QMovie("image/4.gif")
@@ -62,8 +57,7 @@ class Ui_MainWindow(object):
             animation.start()
         else:
             self.label.clear()
-    
-    
+
     def run_task(self):
         self.thread = QtCore.QThread()
         self.worker = Worker()
@@ -74,12 +68,15 @@ class Ui_MainWindow(object):
         self.thread.finished.connect(self.thread.deleteLater)
         self.thread.start()
 
+
 class Worker(QtCore.QObject):
     finished = QtCore.pyqtSignal()
-    
+
     def run(self):
-        subprocess.Popen(['python', 'main.py'], creationflags=subprocess.CREATE_NO_WINDOW)
+        subprocess.Popen(['python', 'main.py'],
+                         creationflags=subprocess.CREATE_NO_WINDOW)
         self.finished.emit()
+
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)

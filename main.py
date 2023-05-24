@@ -1,13 +1,14 @@
 from ai_function.access_schedule import schedule
 from ai_function.speaklisten import speaker
 from ai_function.point_lookup import point_lookup
+from ai_function.sleep import function
 from ai_function.reply import reply
 from intentclassification.intent_classification import IntentClassifier
 
 import pyaudio,json,random,sys,struct,pvporcupine
 
 class Assistant:
-
+    
     def __init__(self, name):
         self.name = name
         
@@ -19,21 +20,23 @@ class Assistant:
         :param text: Văn bản mà người dùng đã nhập
         """
         intent = intentclassifier.predict(text)
-
+        
         if intent == 'leaving':
-            speaker.speak("Rất vui được phục vụ bạn.")
+            with open('samples/leaving.json',encoding='utf-8') as f:
+                    data = json.load(f)
+                    questions = data.get('', [])
+            question = random.choice(questions)
+            speaker.speak(question)
             sys.exit()
-
+      
         replies = {
             'greeting': reply,
-            'insult': reply,
-            'install': reply,
             'tuition':reply,
             'department':reply,
             'point':reply,
             'pointlookup':point_lookup.main,
-            'schedule': schedule.main
-
+            'schedule': schedule.main,
+            'sleep':function.main
         }
         if intent in replies:
             reply_func = replies[intent]
@@ -41,7 +44,6 @@ class Assistant:
             # Kiểm tra xem chức năng có thể gọi được không.
             if callable(reply_func):
                 reply_func(text, intent)
-
                 with open('samples/ask_again.json',encoding='utf-8') as f:
                     data = json.load(f)
                     questions = data.get('', [])
@@ -49,29 +51,10 @@ class Assistant:
                 speaker.speak(question)
                 said=speaker.command()
                 self.reply(said)
-
+             
         else:
-            speaker.speak("Xin lỗi mình chưa đủ thông minh để giúp bạn😣😣")
+            speaker.speak("Xin lỗi mình chưa đủ thông minh để giúp bạn")
  
-        # try:
-
-        #     reply_func = replies[intent]
-            
-        #     # Kiểm tra xem chức năng có thể gọi được không.
-        #     if callable(reply_func):
-        #         reply_func(text, intent)
-
-        #         with open('samples/ask_again.json',encoding='utf-8') as f:
-        #             data = json.load(f)
-        #             questions = data.get('', [])
-        #         question = random.choice(questions)
-        #         speaker.speak(question)
-        #         said=speaker.command()
-        #         self.reply(said)
-
-        # except KeyError:
-        #         speaker.speak("Xin lỗi mình chưa đủ thông minh để giúp bạn😣😣")
-    
     def main(self):
 
         with open('samples/hello_assistant.json',encoding='utf-8') as f:

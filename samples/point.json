@@ -46,5 +46,180 @@
     ],
     "Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào":[
         "Bạn có thể biết được kết quả thi cuối kỳ của mình sau khi kỳ thi kết thúc và giáo viên chấm điểm xong. Thông tin về kết quả thi cuối kỳ sẽ được thông báo trên trang web của trường hoặc liên hệ với văn phòng đào tạo để biết thêm chi tiết"
-    ]
+    ],
+    "Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua":[
+        "Bạn có thể liên hệ với giáo viên hoặc phòng đào tạo để biết được điểm số của mình trong kỳ thi vừa qua."
+    ],
+    "Tôi có thể biết được điểm số trung bình của lớp mình không":[
+        "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được điểm số trung bình của lớp mình"
+    ],
+    "Tôi có thể biết được xếp hạng của mình trong lớp không":[
+        "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được xếp hạng của mình trong lớp"
+    ],
+    "Tôi có thể biết được điểm số tối thiểu để đậu môn học này không":[
+        "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được điểm số tối thiểu để đậu môn học này."
+    ],
+    "Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không":[
+        "Điểm số tối đa mà bạn có thể đạt được trong kỳ thi là 10"
+    ],
+    "Tôi có thể biết được cách tính điểm số của giáo viên không":[
+        "Bạn có thể hỏi giáo viên để biết được cách tính điểm số của họ"
+    ],
+    "Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không":[
+        "Cách tính điểm trung bình cộng của một học kỳ thường là tổng điểm của tất cả các môn học chia cho số môn học."
+    ],
+    "Tôi có thể biết được cách tính điểm trung bình cộng của toàn bộ khóa học không":[
+        "Cách tính điểm trung bình cộng của toàn bộ khóa học thường là tổng điểm của tất cả các môn học chia cho số môn học trong toàn bộ khóa học."
+    ],
+    "Tôi có thể yêu cầu xem lại bài thi của mình không?": [
+        "Có, bạn có thể yêu cầu xem lại bài thi của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
+      ],
+      "Tôi có thể biết được xếp loại học lực của mình không?": [
+        "Có, bạn có thể tra cứu xếp loại học lực của mình trên hồ sơ cá nhân trên trang web của trường Đại học Bình Dương."
+      ],
+      "Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào?": [
+        "Thông thường, kết quả thi cuối kỳ sẽ được công bố trên trang web của trường Đại học Bình Dương trong vòng 2 tuần sau khi kỳ thi kết thúc."
+      ],
+      "Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua?": [
+        "Bạn có thể kiểm tra điểm số của mình trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+      ],
+      "Tôi có thể biết được điểm số trung bình của lớp mình không?": [
+        "Có, bạn có thể tra cứu điểm số trung bình của lớp mình trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+      ],
+      "Tôi có thể biết được xếp hạng của mình trong lớp không?": [
+        "Có, bạn có thể tra cứu xếp hạng của mình trong lớp trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+      ],
+      "Tôi có thể biết được điểm số tối thiểu để đậu môn học này không?": [
+        "Có, điểm số tối thiểu để đậu môn học được công bố trên trang web của trường Đại học Bình Dương hoặc thông báo trực tiếp từ giảng viên của môn học đó."
+      ],
+      "Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không?": [
+        "Điểm số tối đa mà bạn có thể đạt được trong kỳ thi phụ thuộc vào điểm số tối đa của từng bài thi và phương thức tính điểm của mỗi bài thi. Thông thường, điểm số tối đa của mỗi bài thi và phương thức tính điểm sẽ được giảng viên công bố trước khi thi."
+      ],
+      "Tôi có thể biết được cách tính điểm số của giáo viên không?": [
+        "Có, phương thức tính điểm số của giáo viên sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
+      ],
+      "Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không?": [
+        "Có, cách tính điểm trung bình cộng của một học kỳ thường là trung bình cộng của các điểm số của các môn học trong học kỳ đó, với trọng số của từng môn học phụ thuộc vào số tín chỉ của mỗi môn. Thông thường, cách tính điểm trung bình cộng này sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
+      ],
+      "Tôi có thể biết được cách tính điểm trung bình chung của toàn bộ khóa học không?": [
+        "Có, cách tính điểm trung bình chung của toàn bộ khóa học thường là trung bình cộng của các điểm số của tất cả các môn học trong suốt khóa học đó, với trọng số của mỗi môn học phụ thuộc vào số tín chỉ của mỗi môn. Thông thường, cách tính điểm trung bình chung này sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
+      ],
+      "Tôi đã thi lại môn học, liệu điểm số của mình sẽ được tính lại và cập nhật vào kết quả học tập của mình không?": [
+        "Điểm số của bạn sẽ được tính lại và cập nhật vào kết quả học tập của bạn nếu bạn đã thi lại môn học đó và đạt được điểm số tốt hơn. Thông tin chi tiết về quy trình tính điểm và cập nhật kết quả học tập sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc thông báo trực tiếp từ Phòng Đào tạo."
+      ],
+      "Tôi có thể yêu cầu xem lại bản sao bài thi của mình không?": [
+        "Có, bạn có thể yêu cầu xem lại bản sao bài thi của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
+      ],
+      "Tôi có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình không?": [
+        "Có, bạn có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
+      ],
+      "Tôi có thể cải thiện điểm số của mình bằng cách nộp bài tập thêm không?": [
+        "Tùy thuộc vào quy định của từng giảng viên và môn học, bạn có thể có cơ hội cải thiện điểm số của mình bằng cách nộp bài tập thêm. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+      ],
+      "Tôi có thể tham gia khóa học bồi dạy để cải thiện điểm số của mình không?": [
+        "Có, trường Đại học Bình Dương có thể tổ chức các khóa học bồi dưỡng dành cho sinh viên để cải thiện kết quả học tập của họ. Bạn nên liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+      ],
+      "Tôi có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ không?": [
+        "Có, bạn có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ tại Phòng Đào tạo của trường Đại học Bình Dương."
+      ],
+      "Tôi có thể yêu cầu giáo viên chấm lại bài thi của mình không?": [
+        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giáo viên chấm lại bài thi của mình. Bạn nên liên hệ với giáo viên để biết thêm chi tiết."
+      ],
+      "Tôi có thể yêu cầu xem lại phiếu bầu cho điểm của mình không?": [
+        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu xem lại phiếu bầu cho điểm của mình. Bạn nên liên hệ với giáo viên để biết thêm chi tiết."
+      ],
+      "Tôi đã bỏ thi môn học, liệu điểm số của môn học đó sẽ được tính vào kết quả học tập của tôi?": [
+        "Nếu bạn đã bỏ thi môn học, điểm số của môn học đó sẽ không được tính vào kết quả học tập của bạn. Tuy nhiên, điểm số của môn học đó có thể ảnh hưởng đến việc bạn đậu hay rớt môn học đó."
+      ],
+      "Tôi có thể yêu cầu giảng viên giải thích cho tôi về điểm số của mình không?": [
+        "Có, bạn có thể yêu cầu giảng viên giải thích cho bạn về điểm số của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+      ],
+      "Tôi đã bị điểm 0 vì vi phạm quy định trong kỳ thi, liệu tôi có thể yêu cầu xem lại quyết định của giáo viên không?": [
+        "Tùy thuộc vào quy định của trường học và giáo viên, bạn có thể yêu cầu xem lại quyết định của giáo viên. Bạn nên liên hệ với giáo viên hoặc Phòng Đào tạo để biết thêm chi tiết."
+      ],
+      "Tôi đã thi lại môn học, liệu điểm số của lần thi lại sẽ được tính vào kết quả học tập của tôi?": [
+        "Nếu bạn đã thi lại môn học, điểm số của lần thi lại sẽ được tính vào kết quả học tập của bạn nếu bạn đạt được điểm số tốt hơn."
+      ],
+    "Tôi muốn biết thêm về quy trình đánh giá điểm số tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy trình đánh giá điểm số."
+      ],
+      "Tôi đã bị điểm số bị trừ vì vi phạm quy định trong lớp học, liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không?": [
+        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giảng viên xem lại quyết định của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+      ],
+      "Tôi muốn biết thêm về quy định về việc nộp bài tập trễ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nộp bài tập trễ."
+      ],
+      "Tôi đã bị điểm số bị trừ vì nộp bài tập trễ, liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không?": [
+        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giảng viên xem lại quyết định của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+      ],
+      "Tôi muốn biết thêm về quy định về việc nghỉ học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nghỉ học."
+      ],
+      "Tôi muốn biết thêm về quy định về việc đăng ký học phần tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần."
+      ],
+      "Tôi đã đăng ký học phần nhưng muốn thay đổi, liệu tôi có thể làm điều đó không?": [
+        "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể có cơ hội thay đổi đăng ký học phần. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+      ],
+      "Tôi muốn biết thêm về quy định về việc đăng ký tín chỉ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký tín chỉ."
+      ],
+      "Tôi có thể đăng ký học phần ở kỳ học sau không?": [
+        "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể có cơ hội đăng ký học phần ở kỳ học sau. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+      ],
+      "Tôi muốn biết thêm về quy định về việc đổi ngành học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đổi ngành học."
+      ],
+      "Tôi muốn biết thêm về quy định về việc chuyển trường tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc chuyển trường."
+      ],
+        "Tôi đã bị từ chối đăng ký học phần, liệu tôi có thể yêu cầu xem lại quyết định của trường không?": [
+          "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể yêu cầu xem lại quyết định của trường. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+        ],
+        "Tôi muốn biết thêm về quy định về việc xét học bổng tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+          "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét học bổng."
+        ],
+        "Tôi đã nhận được thông báo về việc không đủ điều kiện để được xét học bổng, liệu tôi có thể yêu cầu xem lại quyết định của trường không?": [
+          "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể yêu cầu xem lại quyết định của trường. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+        ],
+        "Tôi muốn biết thêm về quy định về việc đăng ký tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+          "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký tốt nghiệp."
+        ],
+        "Tôi muốn biết thêm về quy trình xét duyệt đề tài nghiên cứu khoa học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+          "Bạn nên liên hệ với Phòng Quản lý Khoa học và Hợp tác quốc tế của trường Đại học Bình Dương để biết thêm chi tiết về quy trình xét duyệt đề tài nghiên cứu khoa học."
+        ],
+      "Tôi muốn đăng ký tham gia hoạt động ngoại khóa tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Công tác Sinh viên của trường Đại học Bình Dương để biết thêm chi tiết về việc đăng ký tham gia hoạt động ngoại khóa."
+      ],
+      "Tôi muốn biết thêm về quy định về việc phúc khảo kết quả học tập tại trường Đạihọc Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc phúc khảo kết quả học tập."
+      ],
+      "Tôi muốn biết thêm về quy định về việc cấp bằng tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc cấp bằng tốt nghiệp."
+      ],
+      "Tôi muốn biết thêm về quy định về việc đăng ký học lại tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiếtvề quy định về việc đăng ký học lại."
+      ],
+      "Tôi muốn biết thêm về quy định về việc nghỉ học tạm thời tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nghỉ học tạm thời."
+      ],
+      "Tôi muốn biết thêm về quy định về việc xét tuyển đại học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Tuyển sinh của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển đại học."
+      ],
+      "Tôi muốn biết thêm về quy định về việc xét tuyển thạc sĩ tại trường Đại học BìnhDương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo Sau đại học của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển thạc sĩ."
+      ],
+      "Tôi muốn biết thêm về quy định về việc xét tuyển tiến sĩ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo Sau đại học của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển tiến sĩ."
+      ],
+      "Tôi muốn biết thêm về quy định về việc đăng ký học phần qua mạng tại trường Đại học B ình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần qua mạng."
+      ],
+      "Tôi muốn biết thêm về quy định về việc đăng ký học phần bằng hình thức thực tập tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Phòng Thực tập và Giới thiệu việc làm của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần bằng hình thức thực tập."
+      ],
+      "Tôi muốn biết thêm về quy định về việc thực hiện đồ án tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+        "Bạn nên liên hệ với Khoa/ Bộ môn mà bạn đang theo học hoặc với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc thực hiện đồ án tốt nghiệp."
+      ]
+    
 }

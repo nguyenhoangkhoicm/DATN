@@ -1,11 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from datetime import datetime
+
+from selenium.webdriver.edge.options import Options
 from ai_function.determine_most_similar import determine_most_similar_phrase
 from ai_function.speaklisten import speaker
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import subprocess,os,re,time,json,random
+import subprocess,os,time,json,random
 
 class schedule():
     def main(self, text, intent):
@@ -23,7 +24,61 @@ class schedule():
             'Bạn có thể xem giúp mình lịch học với':'schedule',
             'Bạn có thể kiểm tra giúp mình lịch học được không':'schedule',
             'Bạn có thể xem giúp mình lịch học được chứ':'schedule',
-           ' Bạn giúp mình xem lịch học được chứ':'schedule'
+            'Bạn giúp mình xem lịch học được chứ':'schedule',
+            'Bạn có thể cho tôi xem lịch học được không':'schedule',
+            'Tôi cần kiểm tra lịch học của mình, có thể xem giúp tôi':'schedule',
+            'Tôi không nhớ lịch học của mình, bạn có thể cho tôi xem lại được không':'schedule',
+            'Bạn có thể gửi cho tôi lịch học của mình qua email được không':'schedule',
+            'Tôi cần xem lịch học để có thể sắp xếp thời gian làm việc của mình':'schedule',
+            'Tôi muốn biết lịch học của mình để có thể chuẩn bị tốt cho các bài kiểm tra và bài tập':'schedule',
+            'Tôi đang có rắc rối với lịch học của mình, bạn có thể giúp tôi xem lại được không':'schedule',
+            'Tôi đang muốnkiểm tra lịch học của mình để tiện cho việc sắp xếp thời gian đi học':'schedule',
+            'Tôi cần xem lịch học để biết được thời gian của các buổi học và đảm bảo không bỏ sót bất kỳ buổi nào':'schedule',
+            ' Bạn có thể cho tôi biết lịch học của mình để tôi có thể chuẩn bị trước cho các bài giảng, bài tập':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và đảm bảo không bị trùng lịch với các hoạt động khác':'schedule',
+            'Tôi muốn xem lịch học để biết được thời gian của các buổi học và chuẩn bị trước cho các bài tập':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp':'schedule',
+            'Bạn có thể cho tôi xem lịch học để tôi có thể đăng ký các hoạt động ngoại khóa phù hợp':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp lịch làm việc của mình':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể điều chỉnh các kế hoạch cá nhân của mình':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và đảm bảo tham gia đầy đủ các buổi học':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình của mình':'schedule',
+            ' Tôi cần xem lịch học để biết thời gian của các buổi học và đảm bảo không bỏ lỡ bất kỳ buổi nào':'schedule',
+            ' Bạn có thể cho tôi xem lịch học để tôi có thể sắp xếp thời gian làm việc và học tập hợp lý':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi lại phù hợp':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể đảm bảo tham gia đầy đủ các hoạt động học tập':'schedule',
+            ' Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các môn học khác':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình làm việc của mình':'schedule',
+            'Bạn có thể giúp tôi kiểm tra lịch học của mình để tôi có thể sắp xếp thời gian đi học và đi lại phù hợp':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các hoạt động khác':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể chuẩn bị trước cho các bài kiểm tra và bài tập':'schedule',
+            ' Tôi muốn kiểm tra lịch học của mình để biết thời gian của các buổi học và có thể xem xét thời gian cho các hoạt động ngoại khóa khác':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các môn học khác trong cùng kỳ học':'schedule',
+            'Bạn có thể cho tôi xem lịch học để tôi có thể sắp xếp thời gian học tập cho phù hợp với lịch trình cá nhân':'schedule',
+            'Tôi muốn kiểm tra lịch học của mình để biết thời gian của các buổi học và có thể sắp xếp thời gian làm việc khác phù hợp':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi lại phù hợp với lịch trình học tập':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian cho các hoạt động tập thể khác':'schedule',
+            'Tôicần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các kế hoạch dài hạn của mình':'schedule',
+            'Bạn có thể giúp tôi xem lại lịch học để tôi có thể đảm bảo không bị trùng lịch với các hoạt động khác':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi học cho phù hợp với lịch trình của mình':'schedule',
+            ' Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình cá nhân của mình':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể đăng ký các lớp học thêm phù hợp':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian đi lại cho phù hợp với lịch trình học tập của mình':'schedule',
+            ' Tôi muốn kiểm tra lịch học của mình để đảm bảo không bỏ lỡ bất kỳ buổi học hay các hoạt động học tập nào':'schedule',
+            ' Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các kế hoạch du lịch':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thờigian học tập cho phù hợp với lịch trình công việc của mình':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các hoạt động tình nguyện':'schedule',
+            'Tôi muốn kiểm tra lịch học của mình để đảm bảo có đủ thời gian cho các hoạt động giải trí và thư giãn':'schedule',
+            'Tôi cần xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với các hoạt động thể thao':'schedule',
+            ' Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với sở thích cá nhân':'schedule',
+            ' Tôi cần xem lịch học để biết thời gian của các buổi học và có thể chuẩn bị tốt hơn cho các bài kiểm tra và bài tập':'schedule',
+            ' Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể sắp xếp thời gian học tập cho phù hợp với lịch trình làm việc của mình':'schedule',
+            ' Tôi cần xem lịch học để biết thời gian của các buổi học và có thể đảm bảo tham gia đầy đủ các hoạt động học tập':'schedule',
+            'Tôi muốn xem lịch học để biết thời gian của các buổi học và có thể đăng ký các khóa học trực tuyến phù hợp với lịch trình của mình':'schedule'
+
+           
+
+
         }
         most_similar = determine_most_similar_phrase(text, phrases)
         return phrases[most_similar]
@@ -36,75 +91,35 @@ class schedule():
         question = random.choice(questions)
         speaker.speak(question)
 
+        edge_options = Options()
+        edge_options.add_argument("--incognito")
+
         url = "https://camau.bdu.edu.vn/sinh-vien"
-        # Mở trang web
-        driver = webdriver.Edge()
-        driver.get(url)
 
-        wait = WebDriverWait(driver, 10)
-        schedule_elements = wait.until(EC.presence_of_all_elements_located(
-            (By.XPATH, "//a[contains(@href, '/sinh-vien/')]")))
-        
-        # latest_schedule_link = None
-        # latest_date = datetime.min
+        try:
+            # Mở trang web
+            driver = webdriver.Edge(options=edge_options)
+            driver.get(url)
 
-        # for element in schedule_elements:
-        #     link_text = element.text
-        #     date_match = re.search(r'\d{2}/\d{2}/\d{4}', link_text)
-        #     if date_match:
-        #         date_str = date_match.group()
-        #         date_obj = datetime.strptime(date_str, '%d/%m/%Y')
-        #         if date_obj > latest_date:
-        #             latest_date = date_obj
-        #             latest_schedule_link = element
-        latest_schedule_link = None
-        latest_date = None
+            wait = WebDriverWait(driver, 10)
 
-        for element in schedule_elements:
-            link_text = element.text
-            date_match = re.search(r'\d{2}/\d{2}/\d{4}', link_text)
-            if date_match:
-                date_str = date_match.group()
-                date_obj = datetime.strptime(date_str, '%d/%m/%Y')
-                if latest_date is None or date_obj > latest_date:
-                    latest_date = date_obj
-                    latest_schedule_link = element
-
-        if latest_schedule_link:
-
-            # tìm kiếm lịch học mới nhất
-            latest_schedule_link.click()
+            latest_schedule = wait.until(EC.presence_of_element_located((By.XPATH, "//h5[contains(text(),'Lịch học tuần')]")))
+            latest_schedule.click()
 
             pdf_link = wait.until(EC.presence_of_element_located(
                 (By.XPATH, "//p[contains(., 'Xem lịch học tại đây')]/following-sibling::p//img")))
             pdf_link.click()
 
-            # Xác định đường dẫn đến thư mục tải xuống
             download_folder = os.path.expanduser("~") + "/Downloads/"
 
-            # Lấy thời gian hiện tại
             start_time = time.time()
 
-            # Tên tệp PDF
-            pdf_file = ''
-
-            # Tải tệp PDF về máy
-            download_button = wait.until(EC.presence_of_element_located((By.XPATH, "//div[@aria-label='Tải xuống']")))
-            download_button.click()
-
-            # Chờ đợi tệp PDF được tải xuống và lưu trữ tên tệp
             while True:
-                # Lấy danh sách tệp trong thư mục tải xuống
                 files = os.listdir(download_folder)
-
-                # Lọc các tệp PDF
                 pdf_files = [f for f in files if f.endswith(".pdf")]
 
-                # Kiểm tra xem có tệp PDF mới tải xuống hay không
                 if len(pdf_files) > 0:
-                    # Lấy tên tệp PDF mới nhất
                     pdf_file = pdf_files[-1]
-                    # Kiểm tra xem tệp PDF đã được tải xuống hoàn tất hay chưa
                     if os.path.getsize(download_folder + pdf_file) > 0:
                         break
                     else:
@@ -112,21 +127,21 @@ class schedule():
                 else:
                     time.sleep(1)
 
-                # Kiểm tra xem đã vượt quá thời gian chờ tối đa hay chưa
                 if time.time() - start_time > 60:
-                    break
+                    raise Exception("Tệp PDF không được tải xuống trong thời gian cho phép.")
 
-            # Kiểm tra xem tệp PDF đã tải xuống thành công hay không
-            if pdf_file != '':
-                # Mở tệp PDF bằng trình xem PDF mặc định
-                subprocess.Popen([download_folder + pdf_file], shell=True)
-            else:
-                speaker.speak("Không tìm thấy tệp PDF tải xuống!")
+            subprocess.Popen([download_folder + pdf_file], shell=True)
 
             with open('samples/result_access_schedule.json',encoding='utf-8') as f:
                 data = json.load(f)
-                questions= data.get('', [])
+                questions = data.get('', [])
             question = random.choice(questions)
             speaker.speak(question)
+
+        except Exception as e:
+            speaker.speak(str(e))
+
+        finally:
+            driver.quit()
     
 schedule = schedule()

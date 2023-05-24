@@ -53,11 +53,11 @@ class IntentClassifier:
         self.svm = LinearSVC().fit(X_train_tfidf, y_train)
 
         # Lưu count_vect, tfidf_transformer và svm vào tệp
-        with open('count_vect.pkl', 'wb') as f:
+        with open('./intentclassification/model/count_vect.pkl', 'wb') as f:
             pickle.dump(self.count_vect, f)
-        with open('tfidf_transformer.pkl', 'wb') as f:
+        with open('./intentclassification/model/tfidf_transformer.pkl', 'wb') as f:
             pickle.dump(self.tfidf_transformer, f)
-        with open('svm.pkl', 'wb') as f:
+        with open('./intentclassification/model/svm.pkl', 'wb') as f:
             pickle.dump(self.svm, f)
 
     def predict(self, input_sentence):
