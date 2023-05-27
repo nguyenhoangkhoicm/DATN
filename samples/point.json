@@ -1,225 +1,522 @@
 {
-    "Điểm số của sinh viên được tính như thế nào":[
-        "Điểm số của sinh viên thường được tính dựa trên kết quả bài kiểm tra, bài tập về nhà và đánh giá của giáo viên."
-    ],
-    "Điểm số có ảnh hưởng đến việc xét tốt nghiệp không":[
-        "Có, điểm số là một trong những tiêu chí quan trọng để xét tốt nghiệp."
-    ],
-    "Điểm số có ảnh hưởng đến việc xin học bổng không":[
-        "Có, điểm số là một trong những tiêu chí quan trọng để xét duyệt học bổng."
-    ],
-    "Điểm số có thể được cải thiện không":[
-        "Có, sinh viên có thể cải thiện điểm số bằng cách học tập chăm chỉ và hoàn thành tốt các bài tập về nhà."
-    ],
-    "Điểm số có thể được sửa đổi không":[
-        "Có, điểm số có thể được sửa đổi nếu có lỗi trong quá trình chấm điểm hoặc nhập liệu."
-    ],
-    "Điểm số có ảnh hưởng đến việc xin việc làm không":[
-        "Có thể có hoặc không tùy thuộc vào yêu cầu của nhà tuyển dụng."
-    ],
-    "Điểm số có thể được sử dụng để đánh giá năng lực của sinh viên không":[
-        " Có, điểm số là một trong những tiêu chí quan trọng để đánh giá năng lực của sinh viên."
-    ],
-    "Làm thế nào để xem bảng điểm của tôi":[
-        "Bạn có thể xem bảng điểm của mình trên trang web của trường hoặc liên hệ với văn phòng đào tạo để biết thêm chi tiết."
-    ],
-    "Tôi có thể biết được điểm số của mình trong từng môn học không":[
-        "Có, bạn có thể xem điểm số của mình trong từng môn học trên bảng điểm."
-    ],
-    "Điểm số trung bình (GPA) là gì":[
-        "Điểm số trung bình (GPA) là chỉ số đánh giá năng lực học tập của sinh viên dựa trên điểm số của các môn học."
-    ],
-    "Làm thế nào để tính GPA":[
-        "GPA được tính bằng cách lấy tổng điểm số của các môn học nhân với số tín chỉ của môn đó, chia cho tổng số tín chỉ"
-    ],
-    "Tôi có thể cải thiện GPA của mình không":[
-        "Có, bạn có thể cải thiện GPA của mình bằng cách cố gắng học tập và đạt điểm cao trong các môn học."
-    ],
-    "Bảng điểm có ảnh hưởng gì đến việc xin việc làm không":[
-        "Có, bảng điểm có thể ảnh hưởng đến việc xin việc làm của bạn. Một số nhà tuyển dụng có thể yêu cầu xem bảng điểm của bạn khi xét tuyển"
-    ],
-    "Tôi có thể yêu cầu xem lại bài thi của mình không":[
-        "Có, bạn có thể yêu cầu xem lại bài thi của mình nếu bạn cho rằng điểm số của mình không chính xác"
-    ],
-    "Tôi có thể biết được xếp loại học lực của mình không":[
-        "Có, bạn có thể biết được xếp loại học lực của mình dựa trên GPA và các tiêu chí khác do trường đưa ra."
-    ],
-    "Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào":[
-        "Bạn có thể biết được kết quả thi cuối kỳ của mình sau khi kỳ thi kết thúc và giáo viên chấm điểm xong. Thông tin về kết quả thi cuối kỳ sẽ được thông báo trên trang web của trường hoặc liên hệ với văn phòng đào tạo để biết thêm chi tiết"
-    ],
-    "Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua":[
-        "Bạn có thể liên hệ với giáo viên hoặc phòng đào tạo để biết được điểm số của mình trong kỳ thi vừa qua."
-    ],
-    "Tôi có thể biết được điểm số trung bình của lớp mình không":[
-        "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được điểm số trung bình của lớp mình"
-    ],
-    "Tôi có thể biết được xếp hạng của mình trong lớp không":[
-        "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được xếp hạng của mình trong lớp"
-    ],
-    "Tôi có thể biết được điểm số tối thiểu để đậu môn học này không":[
-        "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được điểm số tối thiểu để đậu môn học này."
-    ],
-    "Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không":[
-        "Điểm số tối đa mà bạn có thể đạt được trong kỳ thi là 10"
-    ],
-    "Tôi có thể biết được cách tính điểm số của giáo viên không":[
-        "Bạn có thể hỏi giáo viên để biết được cách tính điểm số của họ"
-    ],
-    "Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không":[
-        "Cách tính điểm trung bình cộng của một học kỳ thường là tổng điểm của tất cả các môn học chia cho số môn học."
-    ],
-    "Tôi có thể biết được cách tính điểm trung bình cộng của toàn bộ khóa học không":[
-        "Cách tính điểm trung bình cộng của toàn bộ khóa học thường là tổng điểm của tất cả các môn học chia cho số môn học trong toàn bộ khóa học."
-    ],
-    "Tôi có thể yêu cầu xem lại bài thi của mình không?": [
-        "Có, bạn có thể yêu cầu xem lại bài thi của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
-      ],
-      "Tôi có thể biết được xếp loại học lực của mình không?": [
-        "Có, bạn có thể tra cứu xếp loại học lực của mình trên hồ sơ cá nhân trên trang web của trường Đại học Bình Dương."
-      ],
-      "Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào?": [
-        "Thông thường, kết quả thi cuối kỳ sẽ được công bố trên trang web của trường Đại học Bình Dương trong vòng 2 tuần sau khi kỳ thi kết thúc."
-      ],
-      "Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua?": [
-        "Bạn có thể kiểm tra điểm số của mình trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
-      ],
-      "Tôi có thể biết được điểm số trung bình của lớp mình không?": [
-        "Có, bạn có thể tra cứu điểm số trung bình của lớp mình trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
-      ],
-      "Tôi có thể biết được xếp hạng của mình trong lớp không?": [
-        "Có, bạn có thể tra cứu xếp hạng của mình trong lớp trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
-      ],
-      "Tôi có thể biết được điểm số tối thiểu để đậu môn học này không?": [
-        "Có, điểm số tối thiểu để đậu môn học được công bố trên trang web của trường Đại học Bình Dương hoặc thông báo trực tiếp từ giảng viên của môn học đó."
-      ],
-      "Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không?": [
-        "Điểm số tối đa mà bạn có thể đạt được trong kỳ thi phụ thuộc vào điểm số tối đa của từng bài thi và phương thức tính điểm của mỗi bài thi. Thông thường, điểm số tối đa của mỗi bài thi và phương thức tính điểm sẽ được giảng viên công bố trước khi thi."
-      ],
-      "Tôi có thể biết được cách tính điểm số của giáo viên không?": [
-        "Có, phương thức tính điểm số của giáo viên sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
-      ],
-      "Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không?": [
-        "Có, cách tính điểm trung bình cộng của một học kỳ thường là trung bình cộng của các điểm số của các môn học trong học kỳ đó, với trọng số của từng môn học phụ thuộc vào số tín chỉ của mỗi môn. Thông thường, cách tính điểm trung bình cộng này sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
-      ],
-      "Tôi có thể biết được cách tính điểm trung bình chung của toàn bộ khóa học không?": [
-        "Có, cách tính điểm trung bình chung của toàn bộ khóa học thường là trung bình cộng của các điểm số của tất cả các môn học trong suốt khóa học đó, với trọng số của mỗi môn học phụ thuộc vào số tín chỉ của mỗi môn. Thông thường, cách tính điểm trung bình chung này sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
-      ],
-      "Tôi đã thi lại môn học, liệu điểm số của mình sẽ được tính lại và cập nhật vào kết quả học tập của mình không?": [
-        "Điểm số của bạn sẽ được tính lại và cập nhật vào kết quả học tập của bạn nếu bạn đã thi lại môn học đó và đạt được điểm số tốt hơn. Thông tin chi tiết về quy trình tính điểm và cập nhật kết quả học tập sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc thông báo trực tiếp từ Phòng Đào tạo."
-      ],
-      "Tôi có thể yêu cầu xem lại bản sao bài thi của mình không?": [
-        "Có, bạn có thể yêu cầu xem lại bản sao bài thi của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
-      ],
-      "Tôi có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình không?": [
-        "Có, bạn có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
-      ],
-      "Tôi có thể cải thiện điểm số của mình bằng cách nộp bài tập thêm không?": [
-        "Tùy thuộc vào quy định của từng giảng viên và môn học, bạn có thể có cơ hội cải thiện điểm số của mình bằng cách nộp bài tập thêm. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
-      ],
-      "Tôi có thể tham gia khóa học bồi dạy để cải thiện điểm số của mình không?": [
-        "Có, trường Đại học Bình Dương có thể tổ chức các khóa học bồi dưỡng dành cho sinh viên để cải thiện kết quả học tập của họ. Bạn nên liên hệ với Phòng Đào tạo để biết thêm chi tiết."
-      ],
-      "Tôi có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ không?": [
-        "Có, bạn có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ tại Phòng Đào tạo của trường Đại học Bình Dương."
-      ],
-      "Tôi có thể yêu cầu giáo viên chấm lại bài thi của mình không?": [
-        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giáo viên chấm lại bài thi của mình. Bạn nên liên hệ với giáo viên để biết thêm chi tiết."
-      ],
-      "Tôi có thể yêu cầu xem lại phiếu bầu cho điểm của mình không?": [
-        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu xem lại phiếu bầu cho điểm của mình. Bạn nên liên hệ với giáo viên để biết thêm chi tiết."
-      ],
-      "Tôi đã bỏ thi môn học, liệu điểm số của môn học đó sẽ được tính vào kết quả học tập của tôi?": [
-        "Nếu bạn đã bỏ thi môn học, điểm số của môn học đó sẽ không được tính vào kết quả học tập của bạn. Tuy nhiên, điểm số của môn học đó có thể ảnh hưởng đến việc bạn đậu hay rớt môn học đó."
-      ],
-      "Tôi có thể yêu cầu giảng viên giải thích cho tôi về điểm số của mình không?": [
-        "Có, bạn có thể yêu cầu giảng viên giải thích cho bạn về điểm số của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
-      ],
-      "Tôi đã bị điểm 0 vì vi phạm quy định trong kỳ thi, liệu tôi có thể yêu cầu xem lại quyết định của giáo viên không?": [
-        "Tùy thuộc vào quy định của trường học và giáo viên, bạn có thể yêu cầu xem lại quyết định của giáo viên. Bạn nên liên hệ với giáo viên hoặc Phòng Đào tạo để biết thêm chi tiết."
-      ],
-      "Tôi đã thi lại môn học, liệu điểm số của lần thi lại sẽ được tính vào kết quả học tập của tôi?": [
-        "Nếu bạn đã thi lại môn học, điểm số của lần thi lại sẽ được tính vào kết quả học tập của bạn nếu bạn đạt được điểm số tốt hơn."
-      ],
-    "Tôi muốn biết thêm về quy trình đánh giá điểm số tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy trình đánh giá điểm số."
-      ],
-      "Tôi đã bị điểm số bị trừ vì vi phạm quy định trong lớp học, liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không?": [
-        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giảng viên xem lại quyết định của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
-      ],
-      "Tôi muốn biết thêm về quy định về việc nộp bài tập trễ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nộp bài tập trễ."
-      ],
-      "Tôi đã bị điểm số bị trừ vì nộp bài tập trễ, liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không?": [
-        "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giảng viên xem lại quyết định của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
-      ],
-      "Tôi muốn biết thêm về quy định về việc nghỉ học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nghỉ học."
-      ],
-      "Tôi muốn biết thêm về quy định về việc đăng ký học phần tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần."
-      ],
-      "Tôi đã đăng ký học phần nhưng muốn thay đổi, liệu tôi có thể làm điều đó không?": [
-        "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể có cơ hội thay đổi đăng ký học phần. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
-      ],
-      "Tôi muốn biết thêm về quy định về việc đăng ký tín chỉ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký tín chỉ."
-      ],
-      "Tôi có thể đăng ký học phần ở kỳ học sau không?": [
-        "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể có cơ hội đăng ký học phần ở kỳ học sau. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
-      ],
-      "Tôi muốn biết thêm về quy định về việc đổi ngành học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đổi ngành học."
-      ],
-      "Tôi muốn biết thêm về quy định về việc chuyển trường tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc chuyển trường."
-      ],
-        "Tôi đã bị từ chối đăng ký học phần, liệu tôi có thể yêu cầu xem lại quyết định của trường không?": [
-          "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể yêu cầu xem lại quyết định của trường. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
-        ],
-        "Tôi muốn biết thêm về quy định về việc xét học bổng tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-          "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét học bổng."
-        ],
-        "Tôi đã nhận được thông báo về việc không đủ điều kiện để được xét học bổng, liệu tôi có thể yêu cầu xem lại quyết định của trường không?": [
-          "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể yêu cầu xem lại quyết định của trường. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
-        ],
-        "Tôi muốn biết thêm về quy định về việc đăng ký tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-          "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký tốt nghiệp."
-        ],
-        "Tôi muốn biết thêm về quy trình xét duyệt đề tài nghiên cứu khoa học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-          "Bạn nên liên hệ với Phòng Quản lý Khoa học và Hợp tác quốc tế của trường Đại học Bình Dương để biết thêm chi tiết về quy trình xét duyệt đề tài nghiên cứu khoa học."
-        ],
-      "Tôi muốn đăng ký tham gia hoạt động ngoại khóa tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Công tác Sinh viên của trường Đại học Bình Dương để biết thêm chi tiết về việc đăng ký tham gia hoạt động ngoại khóa."
-      ],
-      "Tôi muốn biết thêm về quy định về việc phúc khảo kết quả học tập tại trường Đạihọc Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc phúc khảo kết quả học tập."
-      ],
-      "Tôi muốn biết thêm về quy định về việc cấp bằng tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc cấp bằng tốt nghiệp."
-      ],
-      "Tôi muốn biết thêm về quy định về việc đăng ký học lại tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiếtvề quy định về việc đăng ký học lại."
-      ],
-      "Tôi muốn biết thêm về quy định về việc nghỉ học tạm thời tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nghỉ học tạm thời."
-      ],
-      "Tôi muốn biết thêm về quy định về việc xét tuyển đại học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Tuyển sinh của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển đại học."
-      ],
-      "Tôi muốn biết thêm về quy định về việc xét tuyển thạc sĩ tại trường Đại học BìnhDương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo Sau đại học của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển thạc sĩ."
-      ],
-      "Tôi muốn biết thêm về quy định về việc xét tuyển tiến sĩ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo Sau đại học của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển tiến sĩ."
-      ],
-      "Tôi muốn biết thêm về quy định về việc đăng ký học phần qua mạng tại trường Đại học B ình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần qua mạng."
-      ],
-      "Tôi muốn biết thêm về quy định về việc đăng ký học phần bằng hình thức thực tập tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Phòng Thực tập và Giới thiệu việc làm của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần bằng hình thức thực tập."
-      ],
-      "Tôi muốn biết thêm về quy định về việc thực hiện đồ án tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
-        "Bạn nên liên hệ với Khoa/ Bộ môn mà bạn đang theo học hoặc với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc thực hiện đồ án tốt nghiệp."
-      ]
-    
+  "Điểm số của sinh viên được tính như thế nào": [
+    "Điểm số của sinh viên thường được tính dựa trên kết quả bài kiểm tra, bài tập về nhà và đánh giá của giáo viên."
+  ],
+  "Điểm số có ảnh hưởng đến việc xét tốt nghiệp không": [
+    "Có, điểm số là một trong những tiêu chí quan trọng để xét tốt nghiệp."
+  ],
+  "Điểm số có ảnh hưởng đến việc xin học bổng không": [
+    "Có, điểm số là một trong những tiêu chí quan trọng để xét duyệt học bổng."
+  ],
+  "Điểm số có thể được cải thiện không": [
+    "Có, sinh viên có thể cải thiện điểm số bằng cách học tập chăm chỉ và hoàn thành tốt các bài tập về nhà."
+  ],
+  "Điểm số có thể được sửa đổi không": [
+    "Có, điểm số có thể được sửa đổi nếu có lỗi trong quá trình chấm điểm hoặc nhập liệu."
+  ],
+  "Điểm số có ảnh hưởng đến việc xin việc làm không": [
+    "Có thể có hoặc không tùy thuộc vào yêu cầu của nhà tuyển dụng."
+  ],
+  "Điểm số có thể được sử dụng để đánh giá năng lực của sinh viên không": [
+    " Có, điểm số là một trong những tiêu chí quan trọng để đánh giá năng lực của sinh viên."
+  ],
+  "Làm thế nào để xem bảng điểm của tôi": [
+    "Bạn có thể xem bảng điểm của mình trên trang web của trường hoặc liên hệ với văn phòng đào tạo để biết thêm chi tiết."
+  ],
+  "Tôi có thể biết được điểm số của mình trong từng môn học không": [
+    "Có, bạn có thể xem điểm số của mình trong từng môn học trên bảng điểm."
+  ],
+  "Điểm số trung bình (GPA) là gì": [
+    "Điểm số trung bình (GPA) là chỉ số đánh giá năng lực học tập của sinh viên dựa trên điểm số của các môn học."
+  ],
+  "Làm thế nào để tính GPA": [
+    "GPA được tính bằng cách lấy tổng điểm số của các môn học nhân với số tín chỉ của môn đó, chia cho tổng số tín chỉ"
+  ],
+  "Tôi có thể cải thiện GPA của mình không": [
+    "Có, bạn có thể cải thiện GPA của mình bằng cách cố gắng học tập và đạt điểm cao trong các môn học."
+  ],
+  "Bảng điểm có ảnh hưởng gì đến việc xin việc làm không": [
+    "Có, bảng điểm có thể ảnh hưởng đến việc xin việc làm của bạn. Một số nhà tuyển dụng có thể yêu cầu xem bảng điểm của bạn khi xét tuyển"
+  ],
+  "Tôi có thể yêu cầu xem lại bài thi của mình không": [
+    "Có, bạn có thể yêu cầu xem lại bài thi của mình nếu bạn cho rằng điểm số của mình không chính xác"
+  ],
+  "Tôi có thể biết được xếp loại học lực của mình không": [
+    "Có, bạn có thể biết được xếp loại học lực của mình dựa trên GPA và các tiêu chí khác do trường đưa ra."
+  ],
+  "Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào": [
+    "Bạn có thể biết được kết quả thi cuối kỳ của mình sau khi kỳ thi kết thúc và giáo viên chấm điểm xong. Thông tin về kết quả thi cuối kỳ sẽ được thông báo trên trang web của trường hoặc liên hệ với văn phòng đào tạo để biết thêm chi tiết"
+  ],
+  "Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua": [
+    "Bạn có thể liên hệ với giáo viên hoặc phòng đào tạo để biết được điểm số của mình trong kỳ thi vừa qua."
+  ],
+  "Tôi có thể biết được điểm số trung bình của lớp mình không": [
+    "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được điểm số trung bình của lớp mình"
+  ],
+  "Tôi có thể biết được xếp hạng của mình trong lớp không": [
+    "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được xếp hạng của mình trong lớp"
+  ],
+  "Tôi có thể biết được điểm số tối thiểu để đậu môn học này không": [
+    "Bạn có thể hỏi giáo viên hoặc phòng đào tạo để biết được điểm số tối thiểu để đậu môn học này."
+  ],
+  "Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không": [
+    "Điểm số tối đa mà bạn có thể đạt được trong kỳ thi là 10"
+  ],
+  "Tôi có thể biết được cách tính điểm số của giáo viên không": [
+    "Bạn có thể hỏi giáo viên để biết được cách tính điểm số của họ"
+  ],
+  "Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không": [
+    "Cách tính điểm trung bình cộng của một học kỳ thường là tổng điểm của tất cả các môn học chia cho số môn học."
+  ],
+  "Tôi có thể biết được cách tính điểm trung bình cộng của toàn bộ khóa học không": [
+    "Cách tính điểm trung bình cộng của toàn bộ khóa học thường là tổng điểm của tất cả các môn học chia cho số môn học trong toàn bộ khóa học."
+  ],
+  "Tôi có thể yêu cầu xem lại bài thi của mình không?": [
+    "Có, bạn có thể yêu cầu xem lại bài thi của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
+  ],
+  "Tôi có thể biết được xếp loại học lực của mình không?": [
+    "Có, bạn có thể tra cứu xếp loại học lực của mình trên hồ sơ cá nhân trên trang web của trường Đại học Bình Dương."
+  ],
+  "Tôi có thể biết được kết quả thi cuối kỳ của mình khi nào?": [
+    "Thông thường, kết quả thi cuối kỳ sẽ được công bố trên trang web của trường Đại học Bình Dương trong vòng 2 tuần sau khi kỳ thi kết thúc."
+  ],
+  "Làm thế nào để tôi biết được điểm số của mình trong kỳ thi vừa qua?": [
+    "Bạn có thể kiểm tra điểm số của mình trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+  ],
+  "Tôi có thể biết được điểm số trung bình của lớp mình không?": [
+    "Có, bạn có thể tra cứu điểm số trung bình của lớp mình trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+  ],
+  "Tôi có thể biết được xếp hạng của mình trong lớp không?": [
+    "Có, bạn có thể tra cứu xếp hạng của mình trong lớp trên trang web của trường Đại học Bình Dương hoặc liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+  ],
+  "Tôi có thể biết được điểm số tối thiểu để đậu môn học này không?": [
+    "Có, điểm số tối thiểu để đậu môn học được công bố trên trang web của trường Đại học Bình Dương hoặc thông báo trực tiếp từ giảng viên của môn học đó."
+  ],
+  "Tôi có thể biết được điểm số tối đa mà tôi có thể đạt được trong kỳ thi này không?": [
+    "Điểm số tối đa mà bạn có thể đạt được trong kỳ thi phụ thuộc vào điểm số tối đa của từng bài thi và phương thức tính điểm của mỗi bài thi. Thông thường, điểm số tối đa của mỗi bài thi và phương thức tính điểm sẽ được giảng viên công bố trước khi thi."
+  ],
+  "Tôi có thể biết được cách tính điểm số của giáo viên không?": [
+    "Có, phương thức tính điểm số của giáo viên sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
+  ],
+  "Tôi có thể biết được cách tính điểm trung bình cộng của một học kỳ không?": [
+    "Có, cách tính điểm trung bình cộng của một học kỳ thường là trung bình cộng của các điểm số của các môn học trong học kỳ đó, với trọng số của từng môn học phụ thuộc vào số tín chỉ của mỗi môn. Thông thường, cách tính điểm trung bình cộng này sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
+  ],
+  "Tôi có thể biết được cách tính điểm trung bình chung của toàn bộ khóa học không?": [
+    "Có, cách tính điểm trung bình chung của toàn bộ khóa học thường là trung bình cộng của các điểm số của tất cả các môn học trong suốt khóa học đó, với trọng số của mỗi môn học phụ thuộc vào số tín chỉ của mỗi môn. Thông thường, cách tính điểm trung bình chung này sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc giáo viên sẽ thông báo trực tiếp cho sinh viên."
+  ],
+  "Tôi đã thi lại môn học, liệu điểm số của mình sẽ được tính lại và cập nhật vào kết quả học tập của mình không?": [
+    "Điểm số của bạn sẽ được tính lại và cập nhật vào kết quả học tập của bạn nếu bạn đã thi lại môn học đó và đạt được điểm số tốt hơn. Thông tin chi tiết về quy trình tính điểm và cập nhật kết quả học tập sẽ được công bố trên trang web của trường Đại học Bình Dương hoặc thông báo trực tiếp từ Phòng Đào tạo."
+  ],
+  "Tôi có thể yêu cầu xem lại bản sao bài thi của mình không?": [
+    "Có, bạn có thể yêu cầu xem lại bản sao bài thi của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
+  ],
+  "Tôi có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình không?": [
+    "Có, bạn có thể yêu cầu xem lại bài kiểm tra giữa kỳ của mình tại Phòng Đào tạo của trường Đại học Bình Dương."
+  ],
+  "Tôi có thể cải thiện điểm số của mình bằng cách nộp bài tập thêm không?": [
+    "Tùy thuộc vào quy định của từng giảng viên và môn học, bạn có thể có cơ hội cải thiện điểm số của mình bằng cách nộp bài tập thêm. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+  ],
+  "Tôi có thể tham gia khóa học bồi dạy để cải thiện điểm số của mình không?": [
+    "Có, trường Đại học Bình Dương có thể tổ chức các khóa học bồi dưỡng dành cho sinh viên để cải thiện kết quả học tập của họ. Bạn nên liên hệ với Phòng Đào tạo để biết thêm chi tiết."
+  ],
+  "Tôi có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ không?": [
+    "Có, bạn có thể yêu cầu xem lại điểm số của mình sau khi kết thúc học kỳ tại Phòng Đào tạo của trường Đại học Bình Dương."
+  ],
+  "Tôi có thể yêu cầu giáo viên chấm lại bài thi của mình không?": [
+    "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giáo viên chấm lại bài thi của mình. Bạn nên liên hệ với giáo viên để biết thêm chi tiết."
+  ],
+  "Tôi có thể yêu cầu xem lại phiếu bầu cho điểm của mình không?": [
+    "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu xem lại phiếu bầu cho điểm của mình. Bạn nên liên hệ với giáo viên để biết thêm chi tiết."
+  ],
+  "Tôi đã bỏ thi môn học, liệu điểm số của môn học đó sẽ được tính vào kết quả học tập của tôi?": [
+    "Nếu bạn đã bỏ thi môn học, điểm số của môn học đó sẽ không được tính vào kết quả học tập của bạn. Tuy nhiên, điểm số của môn học đó có thể ảnh hưởng đến việc bạn đậu hay rớt môn học đó."
+  ],
+  "Tôi có thể yêu cầu giảng viên giải thích cho tôi về điểm số của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giải thích cho bạn về điểm số của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+  ],
+  "Tôi đã bị điểm 0 vì vi phạm quy định trong kỳ thi, liệu tôi có thể yêu cầu xem lại quyết định của giáo viên không?": [
+    "Tùy thuộc vào quy định của trường học và giáo viên, bạn có thể yêu cầu xem lại quyết định của giáo viên. Bạn nên liên hệ với giáo viên hoặc Phòng Đào tạo để biết thêm chi tiết."
+  ],
+  "Tôi đã thi lại môn học, liệu điểm số của lần thi lại sẽ được tính vào kết quả học tập của tôi?": [
+    "Nếu bạn đã thi lại môn học, điểm số của lần thi lại sẽ được tính vào kết quả học tập của bạn nếu bạn đạt được điểm số tốt hơn."
+  ],
+  "Tôi muốn biết thêm về quy trình đánh giá điểm số tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy trình đánh giá điểm số."
+  ],
+  "Tôi đã bị điểm số bị trừ vì vi phạm quy định trong lớp học, liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không?": [
+    "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giảng viên xem lại quyết định của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+  ],
+  "Tôi muốn biết thêm về quy định về việc nộp bài tập trễ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nộp bài tập trễ."
+  ],
+  "Tôi đã bị điểm số bị trừ vì nộp bài tập trễ, liệu tôi có thể yêu cầu giảng viên xem lại quyết định của mình không?": [
+    "Tùy thuộc vào quy định của từng môn học và giảng viên, bạn có thể yêu cầu giảng viên xem lại quyết định của mình. Bạn nên liên hệ với giảng viên của môn học để biết thêm chi tiết."
+  ],
+  "Tôi muốn biết thêm về quy định về việc nghỉ học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nghỉ học."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đăng ký học phần tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần."
+  ],
+  "Tôi đã đăng ký học phần nhưng muốn thay đổi, liệu tôi có thể làm điều đó không?": [
+    "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể có cơ hội thay đổi đăng ký học phần. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đăng ký tín chỉ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký tín chỉ."
+  ],
+  "Tôi có thể đăng ký học phần ở kỳ học sau không?": [
+    "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể có cơ hội đăng ký học phần ở kỳ học sau. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đổi ngành học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đổi ngành học."
+  ],
+  "Tôi muốn biết thêm về quy định về việc chuyển trường tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc chuyển trường."
+  ],
+  "Tôi đã bị từ chối đăng ký học phần, liệu tôi có thể yêu cầu xem lại quyết định của trường không?": [
+    "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể yêu cầu xem lại quyết định của trường. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+  ],
+  "Tôi muốn biết thêm về quy định về việc xét học bổng tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét học bổng."
+  ],
+  "Tôi đã nhận được thông báo về việc không đủ điều kiện để được xét học bổng, liệu tôi có thể yêu cầu xem lại quyết định của trường không?": [
+    "Tùy thuộc vào quy định của trường học và kỳ học, bạn có thể yêu cầu xem lại quyết định của trường. Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đăng ký tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký tốt nghiệp."
+  ],
+  "Tôi muốn biết thêm về quy trình xét duyệt đề tài nghiên cứu khoa học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Quản lý Khoa học và Hợp tác quốc tế của trường Đại học Bình Dương để biết thêm chi tiết về quy trình xét duyệt đề tài nghiên cứu khoa học."
+  ],
+  "Tôi muốn đăng ký tham gia hoạt động ngoại khóa tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Công tác Sinh viên của trường Đại học Bình Dương để biết thêm chi tiết về việc đăng ký tham gia hoạt động ngoại khóa."
+  ],
+  "Tôi muốn biết thêm về quy định về việc phúc khảo kết quả học tập tại trường Đạihọc Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc phúc khảo kết quả học tập."
+  ],
+  "Tôi muốn biết thêm về quy định về việc cấp bằng tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc cấp bằng tốt nghiệp."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đăng ký học lại tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiếtvề quy định về việc đăng ký học lại."
+  ],
+  "Tôi muốn biết thêm về quy định về việc nghỉ học tạm thời tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc nghỉ học tạm thời."
+  ],
+  "Tôi muốn biết thêm về quy định về việc xét tuyển đại học tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Tuyển sinh của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển đại học."
+  ],
+  "Tôi muốn biết thêm về quy định về việc xét tuyển thạc sĩ tại trường Đại học BìnhDương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo Sau đại học của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển thạc sĩ."
+  ],
+  "Tôi muốn biết thêm về quy định về việc xét tuyển tiến sĩ tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo Sau đại học của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc xét tuyển tiến sĩ."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đăng ký học phần qua mạng tại trường Đại học B ình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần qua mạng."
+  ],
+  "Tôi muốn biết thêm về quy định về việc đăng ký học phần bằng hình thức thực tập tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Phòng Thực tập và Giới thiệu việc làm của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc đăng ký học phần bằng hình thức thực tập."
+  ],
+  "Tôi muốn biết thêm về quy định về việc thực hiện đồ án tốt nghiệp tại trường Đại học Bình Dương, tôi nên liên hệ ai?": [
+    "Bạn nên liên hệ với Khoa/ Bộ môn mà bạn đang theo học hoặc với Phòng Đào tạo của trường Đại học Bình Dương để biết thêm chi tiết về quy định về việc thực hiện đồ án tốt nghiệp."
+  ],
+  "Tại sao tôi bị điểm F trong môn học này?": [
+    "Điểm F thường được dùng để chỉ rằng bạn đã không đạt được kết quả tối thiểu trong môn học này."
+  ],
+  "Tôi có thể làm gì để cải thiện điểm số của mình?": [
+    "Bạn có thể tìm hiểu thêm về chương trình môn học, tham gia các khóa học bổ trợ hoặc tìm kiếm sự giúp đỡ từ giảng viên hoặc đồng học."
+  ],
+  "Tôi có thể làm bài tập thay thế để cải thiện điểm số của mình không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội làm bài tập thay thế hoặc tham gia các kỳ thi lại để cải thiện điểm số của mình."
+  ],
+  "Nếu tôi không đạt điểm tối thiểu trong bài kiểm tra giữa kỳ, điểm số của tôi sẽ như thế nào?": [
+    "Tùy thuộc vào quy định của trường, điểm số của bạn có thể bị ảnh hưởng nếu bạn không đạt được điểm tối thiểu trong bài kiểm tra giữa kỳ."
+  ],
+  "Tôi có thể yêu cầu xem lại bài kiểm tra của mình không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu xem lại bài kiểm tra của mình để tìm ra lý do tại sao bạn không đạt được điểm cao hơn."
+  ],
+  "Tôi có thể đăng ký học lại môn học này không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể đăng ký học lại môn học này để cải thiện điểm số của mình."
+  ],
+  "Nếu tôi tham gia kỳ thi lại, điểm số của tôi sẽ được tính như thế nào?": [
+    "Tùy thuộc vào chính sách của trường, điểm số của bạn có thể được tính lại theo quy định của trường khi bạn tham gia kỳ thi lại."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi chi tiết về điểm số của mình không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp phản hồi chi tiết về điểm số của mình để có được những gợi ý và cải thiện điểm số."
+  ],
+  "Nếu tôi không đạt được điểm tối thiểu trong môn học, tôi có thể đăng ký học lại môn học này vào kỳ học tiếp theo không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể đăng ký học lại môn học này vào kỳ học tiếp theo để cải thiện điểm số của mình."
+  ],
+  "Nếu tôi bị điểm F, tôi có thể đăng ký học lại môn học này vào kỳ học tiếp theo không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể đăng ký học lại môn học này vào kỳ học tiếp theo để cải thiện điểm số của mình. Tuy nhiên, điểm F có thể ảnh hưởng đến khả năng đăng ký học lại môn học này, vì có thể có những quy định khác nhau của trường về điều này."
+  ],
+  "Tôi có thể yêu cầu xem lại điểm số không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu xem lại điểm số của mình."
+  ],
+  "Tôi có thể yêu cầu sửa lại điểm số không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu sửa lại điểm số của mình."
+  ],
+  "Tôi có thể hỏi giảng viên về điểm số của mình sau khi kỳ thi không?": [
+    "Có, bạn có thể hỏi giảng viên về điểm số của mình sau khi kỳ thi."
+  ],
+  "Tôi có thể gặp giảng viên để thảo luận về điểm số của mình không?": [
+    "Có, bạn có thể gặp giảng viên để thảo luận về điểm số của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp lời giải chi tiết của bài kiểm tra không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp lời giải chi tiết của bài kiểm tra."
+  ],
+
+  "Nếu tôi không đạt điểm tối thiểu trong bài kiểm tra giữa kỳ, điểm số của tôi sẽ bị ảnh hưởng như thế nào?": [
+    "Tùy thuộc vào quy định của trường, điểm số của bạn có thể bị ảnh hưởng nếu bạn không đạt được điểm tối thiểu trong bài kiểm tra giữa kỳ."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi sau khi kỳ thi không?": [
+    "Có, bạn có thể yêu cầu giảng viên cung cấp phản hồi sau khi kỳ thi."
+  ],
+  "Nếu tôi bị điểm thấp vì lý do cá nhân, tôi có thể yêu cầu giảng viên xem xét điểm số của mình không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên xem xét điểm số của mình nếu bạn có lý do cá nhân."
+  ],
+  "Nếu tôi không đạt được điểm tối thiểu trong kỳ thi cuối kỳ, điểm số của tôi sẽ như thế nào?": [
+    "Tùy thuộc vào quy định của trường, điểm số của bạn có thể bị ảnh hưởng nếu bạn không đạt được điểm tối thiểu trong kỳ thi cuối kỳ."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi sau khi kỳ thi cuối kỳ không?": [
+    "Có, bạn có thể yêu cầu giảng viên cung cấp phản hồi sau khi kỳ thi cuối kỳ."
+  ],
+
+  "Tôi có thể hỏi giảng viên về phương pháp chấm điểm của họ không?": [
+    "Có, bạn có thể hỏi giảng viên về phương pháp chấm điểm của họ."
+  ],
+  "Tôi có thể hỏi giảng viên về tiêu chuẩn đánh giá của họ không?": [
+    "Có, bạn có thể hỏi giảng viên về tiêu chuẩn đánh giá của họ."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định của trường, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào quy định của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định của trường."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định của môn học, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định của môn học."
+  ],
+  "Tôi bị trừ điểm vì sai sót của giảng viên, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì sai sót của giảng viên."
+  ],
+  "Tôi bị trừ điểm vì sử dụng tài liệu vi phạm, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì sử dụng tài liệu vi phạm."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp lời giải đáp cho câu hỏi trong bài kiểm trakhông?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp lời giải đáp cho câu hỏi trong bài kiểm tra."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định về thời gian làm bài, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định về thời gian làm bài."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi trực tiếp sau khi kỳ thi không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp phản hồi trực tiếp sau khi kỳ thi."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định về viết chữ cái, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định về viết chữ cái."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi về điểm số của tôi qua email không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp phản hồi về điểm số của tôi qua email."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định về viết tắt, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi về điểm số của tôi qua điện thoại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp phản hồi về điểm số của tôi qua điện thoại."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định về độ dài bài làm, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định về độ dài bài làm."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi về điểm số của tôi trực tiếp không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp phản hồi về điểm số của tôi trực tiếp."
+  ],
+  "Tôi có thể xem lại bài kiểm tra của mình được không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội xem lại bài kiểm tra của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi về bài kiểm tra của mình được không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp phản hồi về bài kiểm tra của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giải thích cho tôi về nội dung bài kiểm tra không?": [
+    "Có, bạn có thể yêu cầu giảng viên giải thích cho bạn về nội dung bài kiểm tra."
+  ],
+  "Tôi bị trừ điểm vì vi phạm quy định về hình thức bài làm, tôi có thể khiếu nại không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội khiếu nại nếu bạn bị trừ điểm vì vi phạm quy định về hình thức bài làm."
+  ],
+  "Tôi có thể yêu cầu giảng viên hướng dẫn về cách cải thiện điểm số của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên hướng dẫn về cách cải thiện điểm số của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu tài liệu học tập để cải thiện điểm số của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu tài liệu học tập để cải thiện điểm số của mình."
+  ],
+  "Tôi có thể tham gia lớp học bù để cải thiện điểm số không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội tham gia lớp học bù để cải thiện điểm số của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên hướng dẫn về cách chuẩn bị cho kỳ thi không?": [
+    "Có, bạn có thể yêu cầu giảng viên hướng dẫn về cách chuẩn bị cho kỳ thi."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp tài liệu học tập trước khi bắt đầu môn học không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội yêu cầu giảng viên cung cấp tài liệu học tập trước khi bắt đầu môn học."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu tài liệu tham khảo để làm bài tập không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu tài liệu tham khảo để làm bài tập."
+  ],
+  "Tôi có thể hỏi giảng viên về phương pháp học tập hiệu quả không?": [
+    "Có, bạn có thể hỏi giảng viên về phương pháp học tập hiệu quả."
+  ],
+  "Tôi có thể hỏi giảng viên về cách tăng cường kiến thức trong môn học không?": [
+    "Có, bạn có thể hỏi giảng viên về cách tăng cường kiến thức trong môn học."
+  ],
+  "Tôi có thể yêu cầu giảng viên đánh giá bài tập của mình trước khi nộp không?": [
+    "Tùy thuộc vào chính sách của trường, bạn có thể có cơ hội yêu cầu giảng viên đánh giá bài tập của mình trước khi nộp."
+  ],
+  "Tôi có thể yêu cầu giảng viên giải thích cho tôi về phương pháp chấm điểm không?": [
+    "Có, bạn có thể yêu cầu giảng viên giải thích cho bạn về phương pháp chấm điểm."
+  ],
+  "Tôi có thể yêu cầu giảng viên tư vấn cho tôi về lộ trình học tập không?": [
+    "Có, bạn có thể yêu cầu giảng viên tư vấn cho bạn về lộ trình học tập."
+  ],
+  "Tôi có thể yêu cầu giảng viên giúp tôi chọn môn học phù hợp với khả năng của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giúp bạn chọn môn học phù hợp với khả năng của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giải thích cho tôi về các khái niệm khó hiểu trong môn học không?": [
+    "Có, bạn có thể yêu cầu giảng viên giải thích cho bạn về các khái niệm khó hiểu trong môn học."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các tài liệu học tập phù hợp với môn học không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các tài liệu học tập phù hợp với môn học."
+  ],
+  "Tôi có thể yêu cầu giảng viên giúp tôi chuẩn bị cho bài thuyết trình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giúp bạn chuẩn bị cho bài thuyết trình."
+  ],
+  "Tôi có thể yêu cầu giảng viên hướng dẫn cho tôi cách trình bày bài thuyết trình không?": [
+    "Có, bạn có thể yêu cầu giảng viên hướng dẫn cho bạn cách trình bày bài thuyết trình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giúp tôi phân tích đề tài nghiên cứu không?": [
+    "Có, bạn có thể yêu cầu giảng viên giúp bạn phân tích đề tài nghiên cứu."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các tài liệu tham khảo phù hợp với đề tài nghiên cứu không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các tài liệu tham khảo phù hợp với đề tài nghiên cứu."
+  ],
+  "Tôi có thể yêu cầu giảng viên hướng dẫn cho tôi cách viết luận văn không?": [
+    "Có, bạn có thể yêu cầu giảng viên hướng dẫn cho bạn cách viết luận văn."
+  ],
+  "Tôi có thể yêu cầu giảng viên giải đáp các thắc mắc về luận văn của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giải đáp các thắc mắc về luận văn của mình."
+  ],
+  "Tôi có thể tham gia các hoạt động ngoại khóa để tăng cường kỹ năng không?": [
+    "Có, bạn có thể tham gia các hoạt động ngoại khóa để tăng cường kỹ năng của mình."
+  ],
+  "Tôi có thể đăng ký học các khóa đào tạo ngoại ngữ bổ sung không?": [
+    "Có, bạn có thể đăng ký học các khóa đào tạo ngoại ngữ bổ sung để nâng cao trình độ ngoại ngữ của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các khóa đào tạo kỹ năng mềm không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các khóa đào tạo kỹ năng mềm để phát triển bản thân."
+  ],
+  "Tôi có thể tham gia các hoạt động tình nguyện để tích luỹ kinh nghiệm không?": [
+    "Có, bạn có thể tham gia các hoạt động tình nguyện để tích luỹ kinh nghiệm và giúp đỡ cộng đồng."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các hoạt động thực tế để áp dụng kiến thức đã học không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các hoạt động thực tế để áp dụng kiến thức đã học và trau dồi kinh nghiệm."
+  ],
+  "Tôi có thể yêu cầu giảng viên tư vấn cho tôi về sự nghiệp sau khi tốt nghiệp không?": [
+    "Có, bạn có thể yêu cầu giảng viên tư vấn cho bạn về sự nghiệp sau khi tốt nghiệp và các cơ hội việc làm trong lĩnh vực của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các cơ hội thực tập không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các cơ hội thực tập để tích lũy kinh nghiệm và phát triển bản thân."
+  ],
+  "Tôi có thể tham gia các câu lạc bộ học thuật để tăng cường kỹ năng không?": [
+    "Có, bạn có thể tham gia các câu lạc bộ học thuật để tăng cường kỹ năng và trau dồi kiến thức."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các câu lạc bộ học thuật phù hợp với sở thích của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các câu lạc bộ học thuật phù hợp với sở thích của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các chương trình trao đổi sinh viên không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các chương trình trao đổi sinh viên để trải nghiệm và học tập ở các quốc gia khác."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các cơ hội học bổng không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các cơ hội học bổng để có thể học tập và nghiên cứu nâng cao trình độ."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ cho tôi trong việc xin học bổng không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho bạn trong việc xin học bổng và cung cấp các thông tin cần thiết."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các đồng nghiệp hoặc chuyên gia trong lĩnh vực của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các đồng nghiệp hoặc chuyên gia trong lĩnh vực của mình để có thể trao đổi và học hỏi thêm kinh nghiệm."
+  ],
+  "Tôi có thể tham gia các hoạt động nghiên cứu khoa học của trường không?": [
+    "Có, bạn có thể tham gia các hoạt động nghiên cứu khoa học của trường để có thể trau dồi kỹ năng và tích luỹ kinh nghiệm nghiên cứu."
+  ],
+  "Tôi có thể đăng ký tham gia các cuộc thi khoa học không?": [
+    "Có, bạn có thể đăng ký tham gia các cuộc thi khoa học để thử thách bản thân và phát triển kỹ năng."
+  ],
+  "Tôi có thể yêu cầu giảng viên tham gia cùng tôi vào các hoạt động nghiên cứu không?": [
+    "Có, bạn có thể yêu cầu giảng viên tham gia cùng bạn vào các hoạt động nghiên cứu để có thể hỗ trợ và giám sát quá trình nghiên cứu của bạn."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ tài chính cho các hoạt động nghiên cứu của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ tài chính cho các hoạt động nghiên cứu của mình, tuy nhiên điều này cần phải được thảo luận và đồng ý giữa bạn và giảng viên."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ tài chính cho việc tham gia các hội thảo, hội nghị không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ tài chính cho việc tham gia các hội thảo, hội nghị để có thể trình bày và chia sẻ nghiên cứu của mình."
+  ],
+ 
+  "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc xin học bổng không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho bạn trong việc xin học bổng và cung cấp các thông tin cần thiết."
+  ],
+  
+  "Tôi có thể yêu cầu giảng viên tham gia cùng tôi vào các dự án ngoại khoá không?": [
+    "Có, bạn có thể yêu cầu giảng viên tham gia cùng bạn vào các dự án ngoại khoá để có thể học hỏi và được hướng dẫn trong quá trình thực hiện."
+  ],
+  "Tôi có thể đề xuất các ý tưởng mới cho giảng viên trong quá trình học tập không?": [
+    "Có, bạn có thể đề xuất các ý tưởng mới cho giảng viên trong quá trình học tập để phát triển lớp học và cải thiện chất lượng giảng dạy."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch học tập không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch học tập để có thể tổ chức thời gian học tập hiệu quả."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp phản hồi về bài kiểm tra của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên cung cấp phản hồi về bài kiểm tra của mình để có thể hiểu rõ hơn về những điểm mạnh và yếu của bản thân."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các phương pháp học tập hiệu quả không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các phương pháp học tập hiệu quả để có thể học tập và tiếp thu kiến thức tốt hơn."
+  ],
+  "Tôi có thể đề xuất cho giảng viên về cách cải thiện chất lượng giảng dạy không?": [
+    "Có, bạn có thể đề xuất cho giảng viên về cách cải thiện chất lượng giảng dạy để giúp lớp học phát triển tốt hơn."
+  ],
+  "Tôi có thể yêu cầu giảng viên tư vấn cho tôi về các khóa học phù hợp với lĩnh vực của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên tư vấn cho bạn về các khóa học phù hợp với lĩnh vực của mình để có thể tiếp cận kiến thức mới và phát triển bản thân."
+  ],
+  "Tôi có thể đề xuất cho trường về việc cải thiện cơ sở vật chất không?": [
+    "Có, bạn có thể đề xuất cho trường về việc cải thiện cơ sở vật chất để tạo điều kiện học tập tốt hơn cho sinh viên."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch nghiên cứu không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch nghiên cứu để có thể thực hiện nghiên cứu một cách hiệu quả."
+  ],
+  "Tôi có thể tham gia các hoạt động thể thao để giảm stress không?": [
+    "Có, bạn có thể tham gia các hoạt động thể thao để giảm stress và cải thiện sức khỏe."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các hoạt động thể thao phù hợp với sở thích của mình không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các hoạt động thể thao phù hợp với sở thích của mình để có thể tham gia và tận hưởng niềm vui trong quá trình tập luyện."
+  ],
+  "Tôi có thể yêu cầu giảng viên tư vấn cho tôi về cách giải quyết xung đột với đồng nghiệp không?": [
+    "Có, bạn có thể yêu cầu giảng viên tư vấn cho bạn về cách giải quyết xung đột với đồng nghiệp để có thể giải quyết vấn đề một cách hiệu quả và tránh xảy ra mâu thuẫn."
+  ],
+  "Tôi có thể yêu cầu giảng viên giới thiệu cho tôi các sách hay để đọc không?": [
+    "Có, bạn có thể yêu cầu giảng viên giới thiệu cho bạn các sách hay để đọc để có thể mở rộng kiến thức và hiểu sâu hơn về lĩnh vực của mình."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc tìm kiếm thông tin và tài liệu không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho việc tìm kiếm thông tin và tài liệu để có thể nghiên cứu và làm bài tập một cách hiệu quả hơn."
+  ],
+  "Tôi có thể yêu cầu giảng viên hướng dẫn cho tôi cách viết một báo cáo nghiên cứu không?": [
+    "Có, bạn có thể yêu cầu giảng viên hướng dẫn cho bạn cách viết một báo cáo nghiên cứu để có thể trình bày kết quả nghiên cứu một cách rõ ràng và logic."
+  ],
+  "Tôi có thể tham gia các câu lạc bộ sinh viên khác nhau để phát triển kỹ năng và giao lưu với các bạn cùng trường không?": [
+    "Có, bạn có thể tham gia các câu lạc bộ sinh viên khác nhau để phát triển kỹ năng và giao lưu với các bạn cùng trường, đồng thời cũng có thể tìm kiếm những người có cùng sở thích và quan điểm."
+  ],
+  "Tôi có thể yêu cầu giảng viên cung cấp cho tôi các tài liệu và tài nguyên để học tập từ xa không?": [
+    "Có, bạn có thể yêu cầu giảng viên cung cấp cho bạn các tài liệu và tài nguyên để học tập từ xa để có thể tiếp cận kiến thức và học tập một cách hiệu quả."
+  ],
+  "Tôi có thể đề xuất cho trường về việc cải thiện chương trình đào tạo không?": [
+    "Có, bạn có thể đề xuất cho trường về việc cải thiện chương trình đào tạo để phù hợp với thực tiễn và nhu cầu của ngành nghề, giúp sinh viên có thể học tập hiệu quả và đáp ứng được yêu cầu của thị trường lao động."
+  ],
+  "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch nghỉ hè không?": [
+    "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch nghỉ hè để có thể sắp xếp thời gian dành cho việc nghỉ ngơi và tự rèn luyện bản thân."
+  ],
+  "Mình cần làm những gì để cải thiện điểm số":[
+    "Xác định mục tiêu và lập kế hoạch học tập hàng ngày, hàng tuần và hàng kỳ. Chia nhỏ công việc, đặt thời hạn và tuân thủ theo lịch trình để duy trì sự tổ chức và tiến độ học tập."
+  ]
 }

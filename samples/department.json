@@ -1,203 +1,206 @@
 {
-    "Cơ cấu tổ chức phòng ban trong trường đại học là gì":[
-        "Cơ cấu tổ chức phòng ban trong trường đại học là cách thức phân chia và phối hợp giữa các phòng ban để hoạt động hiệu quả"
-    ],
-    "Các phòng ban trong trường đại học thường bao gồm những phòng ban nào":[
-        "Các phòng ban trong trường có 7 ban gồm: Ban hành chính Thanh tra, Ban quản lý đào tạo công tác sinh viên, Ban kỹ thuật, Phòng ghi danh đối ngoại, Phòng tuyển sinh, Phòng kế toán, Văn phòng đoàn hội."
-    ],
-    "Mỗi phòng ban có chức năng và nhiệm vụ gì":[
-        "Mỗi phòng ban có chức năng và nhiệm vụ riêng biệt. Ví dụ: phòng đào tạo có nhiệm vụ quản lý các hoạt động đào tạo và giảng dạy; phòng tài chính có nhiệm vụ quản lý tài chính và kế toán của trường."
-    ],
-    "Làm thế nào để liên lạc với các phòng ban":[
-        "Sinh viên có thể liên lạc với các phòng ban qua điện thoại, email hoặc đến trực tiếp tại văn phòng của từng phòng ban. "
-    ],
-    "Có thể tìm hiểu thông tin về các phòng ban ở đâu":[
-        "Sinh viên có thể tìm hiểu thông tin về các phòng ban qua website của trường hoặc liên hệ trực tiếp với từng phòng ban. https://camau.bdu.edu.vn/phong-ban"
-    ],
-    "Có thể xem lịch học của các lớp khác được không":[
-        "Có, sinh viên có thể xem lịch học của các lớp khác trên trang web của trường"
-    ],
-    "Phòng nào trong trường chịu trách nhiệm về việc quản lý đào tạo và công tác sinh viên":[
-        "Ban quản lý đào tạo và công tác sinh viên chịu trách nhiệm về việc quản lý đào tạo và công tác sinh viên."
-    ],
-    "Tôi có thể liên hệ với phòng nào để biết thông tin về ghi danh đôi ngoại":[
-        "Bạn có thể liên hệ với Phòng ghi danh đôi ngoại để biết thông tin về ghi danh đôi ngoại"
-    ],
-    "Phòng nào trong trường chịu trách nhiệm về việc thanh tra và giải quyết khiếu nại":[
-        "Ban hành chính Thanh tra chịu trách nhiệm về việc thanh tra và giải quyết khiếu nại."
-    ],
-    "Tôi có thể liên hệ với phòng nào để biết thông tin về tuyển sinh":[
-        "Bạn có thể liên hệ với Phòng tuyển sinh để biết thông tin về tuyển sinh"
-    ],
-    "Phòng nào trong trường chịu trách nhiệm về việc quản lý kỹ thuật và cơ sở vật chất":[
-        "Ban kỹ thuật chịu trách nhiệm về việc quản lý kỹ thuật và cơ sở vật chất"
-    ],
-    "Tôi có thể liên hệ với phòng nào để biết thông tin về kế toán và thanh toán học phí":[
-        "Bạn có thể liên hệ với Phòng kế toán để biết thông tin về kế toán và thanh toán học phí"
-    ],
-    "Phòng nào trong trường chịu trách nhiệm về việc tổ chức các hoạt động đoàn hội":[
-        "Văn phòng đoàn hội chịu trách nhiệm về việc tổ chức các hoạt động đoàn hội."
-    ],
-    "Tôi có thể liên hệ với phòng nào để biết thông tin về các hoạt động đoàn hội":[
-        "Bạn có thể liên hệ với Văn phòng đoàn hội để biết thông tin về các hoạt động đoàn hội."
-    ],
-    "Tôi có thể liên hệ với phòng nào để biết thông tin về các khóa học và chương trình đào tạo":[
-        "Bạn có thể liên hệ với Ban quản lý đào tạo và công tác sinh viên để biết thông tin về các khóa học và chương trình đào tạo"
-    ],
-    "Tôi có thể liên hệ với phòng nào để biết thông tin về các dịch vụ hỗ trợ sinh viên":[
-        "Bạn có thể liên hệ với Ban quản lý đào tạo và công tác sinh viên hoặc Văn phòng đoàn hội để biết thông tin về các dịch vụ hỗ trợ sinh viên"
-    ],
-    "Ban hành chính Thanh tra đảm nhận các nhiệm vụ gì?": [
-        "Ban hành chính Thanh tra đảm nhận nhiệm vụ giám sát và kiểm tra các hoạt động của các phòng ban trong trường."
-      ],
-      "Làm thế nào để liên hệ với Ban quản lý đào tạo công tác sinh viên?": [
-        "Sinh viên có thể liên hệ với Ban quản lý đào tạo công tác sinh viên qua số điện thoại hoặc email được cung cấp trên trang web của trường."
-      ],
-      "Phòng kỹ thuật của trường có chức năng gì?": [
-        "Phòng kỹ thuật của trường có chức năng hỗ trợ sinh viên về các vấn đề kỹ thuật liên quan đến máy tính, phần mềm, mạng và các thiết bị điện tử khác."
-      ],
-      "Phòng ghi danh đối ngoại giúp đối tượng nào?": [
-        "Phòng ghi danh đối ngoại giúp các sinh viên quốc tế và sinh viên trong nước có nhu cầu tìm hiểu về các chương trình học và các hoạt động liên quan đến đối ngoại tại trường."
-      ],
-      "Phòng tuyển sinh của trường có những thông tin nào về đăng ký nhập học?": [
-        "Phòng tuyển sinh của trường cung cấp thông tin về các chương trình học, thủ tục đăng ký nhập học, điểm chuẩn và các chính sách ưu đãi về học phí."
-      ],
-      "Làm thế nào để đăng ký nhập học vào trường?": [
-        "Sinh viên có thể đăng ký nhập học vào trường thông qua trang web của trường hoặc đến trực tiếp phòng tuyển sinh để được hướng dẫn thủ tục đăng ký."
-      ],
-      "Trường có chính sách hỗ trợ tài chính cho sinh viên không?": [
-        "Có, trường có các chính sách hỗ trợ về học phí và vay vốn sinh viên để giúp các sinh viên có hoàn cảnh khó khăn."
-      ],
-      "Văn phòng đoàn hội có những hoạt động gì?": [
-        "Văn phòng đoàn hội có các hoạt động liên quan đến đời sống sinh viên, văn hóa, thể thao và tình nguyện như tổ chức các cuộc thi, sự kiện, chương trình tình nguyện,..."
-      ],
-      "Làm thế nào để liên hệ với Văn phòng đoàn hội?": [
-        "Sinh viên có thể liên hệ với Văn phòng đoàn hội qua số điện thoại hoặc email được cung cấp trên trang web của trường."
-      ],
-      "Phòng kế toán của trường đảm nhận các nhiệm vụ gì?": [
-        "Phòng kế toán của trường đảm nhận các nhiệm vụ liên quan đến quản lý tài chính, hỗ trợ các hoạt động của trường và các phòng ban khác."
-      ],
-      "Trường có chính sách hỗ trợ học bổng cho sinh viên không?": [
-        "Có, trường có các chính sách hỗ trợ học bổng cho sinh viên có thành tích học tập xuất sắc và có hoàn cảnh khó khăn."
-      ],
-      "Làm thế nào để đăng ký xét tuyển học bổng tại trường?": [
-        "Sinh viên có thể đăng ký xét tuyển học bổng tại phòng tuyển sinh hoặc liên hệ với Văn phòng Đào tạo để biết thêm thông tin chi tiết."
-      ],
-      "Trường có cơ sở vật chất đáp ứng yêu cầu học tập của sinh viên không?": [
-        "Có, trường có cơ sở vật chất hiện đại và đầy đủ để đáp ứng các yêu cầu học tập của sinh viên."
-      ],
-      "Ban quản lý đào tạo công tác sinh viên có chức năng gì?": [
-        "Ban quản lý đào tạo công tác sinh viên có nhiệm vụ quản lý và hỗ trợ sinh viên trong quá trình học tập và các hoạt động ngoại khóa."
-      ],
-      "Làm sao để biết thông tin về lịch học và giảng viên của mình?": [
-        "Sinh viên có thể xem thông tin về lịch học và giảng viên trên trang web của trường hoặc thông qua phần mềm quản lý giảng đường."
-      ],
-      "Làm thế nào để đăng ký học các môn học tại trường?": [
-        "Sinh viên có thể đăng ký học các môn học tại trường thông qua phần mềm quản lý giảng đường hoặc liên hệ với Văn phòng Đào tạo để được hỗ trợ thủ tục đăng ký."
-      ],
-      "Trường có cơ sở vật chất đáp ứng yêu cầu về thể thao và giải trí của sinh viên không?": [
-        "Có, trường có các cơ sở vật chất và hoạt động thể thao, giải trí phong phú để đáp ứng nhu cầu của sinh viên."
-      ],
-      "Trường có hỗ trợ tư vấn nghề nghiệp cho sinh viên không?": [
-        "Có, trường có các chương trình tư vấn nghề nghiệp đểhỗ trợ sinh viên trong việc lựa chọn ngành nghề và phát triển sự nghiệp sau này."
-      ],
-      "Phòng tuyển sinh của trường có những chính sách ưu đãi gì?": [
-        "Phòng tuyển sinh của trường có các chính sách ưu đãi về học phí, học bổng và các chương trình đào tạo đặc biệt."
-      ],
-      "Làm thế nào để đăng ký dự thi vào trường?": [
-        "Sinh viên có thể đăng ký dự thi vào trường thông qua trang web của trường hoặc liên hệ với phòng tuyển sinh để biết thêm thông tin về thủ tục đăng ký."
-      ],
-      "Trường có cơ sở vật chất đáp ứng yêu cầu về an ninh và an toàn của sinh viên không?": [
-        "Có, trường có các biện pháp bảo đảm an ninh và an toàn cho sinh viên trong khuôn viên trường."
-      ],
-      "Trường có chính sách hỗ trợ cho sinh viên nước ngoài không?": [
-        "Có, trường có các chính sách hỗ trợ cho sinh viên nước ngoài như hỗ trợ tìm chỗ ở, giấy tờ visa và hỗ trợ học phí."
-      ],
-      "Làm thế nào để đăng ký thực tập tại trường?": [
-        "Sinh viên có thể đăng ký thực tập tại trường thông qua trang web của trường hoặc liên hệ với phòng tuyển sinh để biết thêm thông tin về thủ tục đăng ký."
-      ],
-      "Trường có chương trình học tiếng Anh không?": [
-        "Có, trường có các chương trình học tiếng Anh để giúp sinh viên nâng cao trình độ tiếng Anh của mình."
-      ],
-      "Làm thế nào để biết thông tin về các hoạt động ngoại khóa của trường?": [
-        "Sinh viên có thể xem thông tin về các hoạt động ngoại khóa của trường trên trang web của trường hoặc liên hệ với Văn phòng Đào tạo hoặc Văn phòng Đoàn hội để biết thêm thông tin chi tiết."
-      ],
-      "Ban hành chính Thanh tra có chức năng giải quyết khiếu nại của sinh viên không": [
-        "Có, Ban hành chính Thanh tra có chức năng giải quyết khiếu nại của sinh viên về các hoạt động của trường."
-      ],
-      "Làm thế nào để yêu cầu giấy chứng nhận tốt nghiệp": [
-        "Sinh viên có thể yêu cầu giấy chứng nhận tốt nghiệp tại Văn phòng Đào tạo của trường và thực hiện thủ tục đăng ký và lấy giấy chứng nhận."
-      ],
-      "Trường có chương trình học thạc sĩ không": [
-        "Có, trường có các chương trình học thạc sĩ để giúp sinh viên nâng cao trình độ và có cơ hội phát triển sự nghiệp trong lĩnh vực của mình."
-      ],
-      "Phòng kỹ thuật có hỗ trợ các khóa học về kỹ thuật máy tính không": [
-        "Có, Phòng kỹ thuật có các khóa học về kỹ thuật máy tính để hỗ trợ sinh viên trong việc nâng cao kỹ năng sử dụng máy tính."
-      ],
-      "Trường có chương trình học tiếng Nhật không": [
-        "Có, trường có các chương trình học tiếng Nhật để giúp sinh viên nâng cao trình độ tiếng Nhật của mình."
-      ],
-      "Làm thế nào để yêu cầu xét tốt nghiệp đợt cuối": [
-        "Sinh viên cần liên hệ với Văn phòng Đào tạo trước thời hạn xét tốt nghiệp để được hướng dẫn thủ tục xét tốt nghiệp đợt cuối."
-      ],
-      "Văn phòng Đoàn hội có cung cấp dịch vụ hỗ trợ tìm việc làm cho sinh viên không": [
-        "Có, Văn phòng Đoàn hội có các chương trình tư vấn và hỗ trợ sinh viên trong việc tìm kiếm việc làm sau khi tốt nghiệp."
-      ],
-      "Phòng tuyển sinh của trường có hỗ trợ thủ tục xét tuyển đặc biệt cho những trường hợp khó khăn không": [
-        "Có, Phòng tuyển sinh của trường có các chính sách hỗ trợ thủ tục xét tuyển đặc biệt cho những trường hợp khó khăn như sinh viên có hoàn cảnh đặc biệt hay từ các vùng miền nghèo."
-      ],
-      "Làm thế nào để yêu cầu cấp lại bằng đại học": [
-        "Sinh viên cần liên hệ với Văn phòng Đào tạo của trường để được hướng dẫn thủ tục cấp lại bằng đại học."
-      ],
-      "Trường có chương trình học bổng cho sinh viên nghèo không": [
-        "Có, trường có các chương trình học bổng để hỗ trợ sinh viên có hoàn cảnh khó khăn, đặc biệt là sinh viên nghèo."
-      ],
-      "Phòng Khảo thí có chức năng gì trong trường": [
-        "Phòng Khảo thí của trường có chức năng tổ chức các kỳ thi và kiểm tra trình độ của sinh viên trong quá trình học tập."
-      ],
-      "Làm thế nào để yêu cầu hỗ trợ về tài chính cho việc học": [
-        "Sinh viên có thể liên hệ với Văn phòng Đào tạo hoặc các phòng ban liên quan để yêu cầu hỗ trợ về tài chính cho việc học."
-      ],
-      "Trường có chính sách hỗ trợ sinh viên tham gia các hoạt động ngoại khóa không": [
-        "Có, trường có chính sách hỗ trợ sinh viên tham gia các hoạt động ngoại khóa để giúp sinh viên có thêm kinh nghiệm và rèn luyện kỹ năng sống."
-      ],
-      "Văn phòng Khoa học công nghệ có chức năng gì trong trường": [
-        "Văn phòng Khoa học công nghệ của trường có chức năng hỗ trợ và phát triển các hoạt động nghiên cứu khoa học và ứng dụng công nghệ trong giảng dạy và học tập."
-      ],
-      "Trường có chương trình học tiếng Anh không": [
-        "Có, trường có các chương trình học tiếng Anh để giúp sinh viên nâng cao trình độ tiếng Anh của mình."
-      ],
-      "Phòng Hành chính tài chính có chức năng gì trong trường": [
-        "Phòng Hành chính tài chính của trường có chức năng quản lý và điều hành các hoạt động tài chính của trường, bao gồm quản lý ngân sách, thu chi và tài khoản."
-      ],
-      "Làm thế nào để yêu cầu xin giấy khai sinh": [
-        "Sinh viên có thể yêu cầu giấy khai sinh tại Văn phòng Đào tạo của trường và thực hiện thủ tục cần thiết theo quy định."
-      ],
-      "Trường có chương trình học các ngôn ngữ khác không": [
-        "Có, trường có các chương trình học các ngôn ngữ khác như tiếng Trung, tiếng Hàn, tiếng Pháp, tiếng Đức để giúp sinh viên nâng cao kỹ năng ngoại ngữ của mình."
-      ],
-      "Văn phòng Công tác sinh viên có chức năng gì trong trường": [
-        "Văn phòng Công tác sinh viên của trường có chức năng tổ chức và hỗ trợ các hoạt động sinh viên, bao gồm các hoạt động văn hóa, thể thao, tình nguyện và đoàn kết."
-      ],
-      "Làm thế nào để yêu cầu cấp lại thẻ sinh viên": [
-        "Sinh viên cần liên hệ với Văn phòng Đào tạo hoặc Văn phòng Công tác sinh viên của trường để được hướng dẫn thủ tục cấp lại thẻ sinh viên."
-      ],
-      "Trường có chương trình học liên kết với các trường đại học quốc tế không": [
-        "Có, trường có các chương trình học liên kết với các trường đại học quốc tế để giúp sinh viên có cơ hội trải nghiệm học tập và rèn luyện kỹ năng ngoại ngữ."
-      ],
-      "Phòng Hợp tác quốc tế có chức năng gì trong trường": [
-        "Phòng Hợp tác quốc tế của trường có chức năng phát triển và quản lý các hoạt động hợp tác quốc tế trong lĩnh vực giáo dục và nghiên cứu khoa học."
-      ],
-      "Trường có chính sách hỗ trợ sinh viên trong việc thực tập không": [
-        "Có, trường có chính sách hỗ trợ sinh viên trong việc thực tập để giúp sinh viên có thêm kinh nghiệm và rèn luyện kỹ năng thực tế."
-      ],
-      "Phòng Kế hoạch tài chính có chức năng gì trong trường": [
-        "Phòng Kế hoạch tài chính của trường có chức năng lập kế hoạch tài chính và quản lý ngân sách của trường."
-      ],
-      "Làm thế nào để yêu cầu hỗ trợ về chương trình học": [
-        "Sinh viên có thể liên hệ với Văn phòng Đào tạo hoặc các phòng ban liên quan để yêu cầu hỗ trợ về chương trình học của mình, bao gồm các vấn đề liên quan đến môn học, giảng viên, thời gian học và đánh giá kết quả học tập."
-      ]
-    
-    
-    
+  "Cơ cấu tổ chức phòng ban trong trường đại học là gì": [
+    "Cơ cấu tổ chức phòng ban trong trường đại học là cách thức phân chia và phối hợp giữa các phòng ban để hoạt động hiệu quả"
+  ],
+  "Các phòng ban trong trường đại học thường bao gồm những phòng ban nào": [
+    "Các phòng ban trong trường có 7 ban gồm: Ban hành chính Thanh tra, Ban quản lý đào tạo công tác sinh viên, Ban kỹ thuật, Phòng ghi danh đối ngoại, Phòng tuyển sinh, Phòng kế toán, Văn phòng đoàn hội."
+  ],
+  "Mỗi phòng ban có chức năng và nhiệm vụ gì": [
+    "Mỗi phòng ban có chức năng và nhiệm vụ riêng biệt. Ví dụ: phòng đào tạo có nhiệm vụ quản lý các hoạt động đào tạo và giảng dạy; phòng tài chính có nhiệm vụ quản lý tài chính và kế toán của trường."
+  ],
+  "Làm thế nào để liên lạc với các phòng ban": [
+    "Sinh viên có thể liên lạc với các phòng ban qua điện thoại, email hoặc đến trực tiếp tại văn phòng của từng phòng ban. "
+  ],
+  "Có thể tìm hiểu thông tin về các phòng ban ở đâu": [
+    "Sinh viên có thể tìm hiểu thông tin về các phòng ban qua website của trường hoặc liên hệ trực tiếp với từng phòng ban. https://camau.bdu.edu.vn/phong-ban"
+  ],
+  "Có thể xem lịch học của các lớp khác được không": [
+    "Có, sinh viên có thể xem lịch học của các lớp khác trên trang web của trường"
+  ],
+  "Phòng nào trong trường chịu trách nhiệm về việc quản lý đào tạo và công tác sinh viên": [
+    "Ban quản lý đào tạo và công tác sinh viên chịu trách nhiệm về việc quản lý đào tạo và công tác sinh viên."
+  ],
+  "Tôi có thể liên hệ với phòng nào để biết thông tin về ghi danh đôi ngoại": [
+    "Bạn có thể liên hệ với Phòng ghi danh đôi ngoại để biết thông tin về ghi danh đôi ngoại"
+  ],
+  "Phòng nào trong trường chịu trách nhiệm về việc thanh tra và giải quyết khiếu nại": [
+    "Ban hành chính Thanh tra chịu trách nhiệm về việc thanh tra và giải quyết khiếu nại."
+  ],
+  "Tôi có thể liên hệ với phòng nào để biết thông tin về tuyển sinh": [
+    "Bạn có thể liên hệ với Phòng tuyển sinh để biết thông tin về tuyển sinh"
+  ],
+  "Phòng nào trong trường chịu trách nhiệm về việc quản lý kỹ thuật và cơ sở vật chất": [
+    "Ban kỹ thuật chịu trách nhiệm về việc quản lý kỹ thuật và cơ sở vật chất"
+  ],
+  "Tôi có thể liên hệ với phòng nào để biết thông tin về kế toán và thanh toán học phí": [
+    "Bạn có thể liên hệ với Phòng kế toán để biết thông tin về kế toán và thanh toán học phí"
+  ],
+  "Phòng nào trong trường chịu trách nhiệm về việc tổ chức các hoạt động đoàn hội": [
+    "Văn phòng đoàn hội chịu trách nhiệm về việc tổ chức các hoạt động đoàn hội."
+  ],
+  "Tôi có thể liên hệ với phòng nào để biết thông tin về các hoạt động đoàn hội": [
+    "Bạn có thể liên hệ với Văn phòng đoàn hội để biết thông tin về các hoạt động đoàn hội."
+  ],
+  "Tôi có thể liên hệ với phòng nào để biết thông tin về các khóa học và chương trình đào tạo": [
+    "Bạn có thể liên hệ với Ban quản lý đào tạo và công tác sinh viên để biết thông tin về các khóa học và chương trình đào tạo"
+  ],
+  "Tôi có thể liên hệ với phòng nào để biết thông tin về các dịch vụ hỗ trợ sinh viên": [
+    "Bạn có thể liên hệ với Ban quản lý đào tạo và công tác sinh viên hoặc Văn phòng đoàn hội để biết thông tin về các dịch vụ hỗ trợ sinh viên"
+  ],
+  "Ban hành chính Thanh tra đảm nhận các nhiệm vụ gì?": [
+    "Ban hành chính Thanh tra đảm nhận nhiệm vụ giám sát và kiểm tra các hoạt động của các phòng ban trong trường."
+  ],
+  "Làm thế nào để liên hệ với Ban quản lý đào tạo công tác sinh viên?": [
+    "Sinh viên có thể liên hệ với Ban quản lý đào tạo công tác sinh viên qua số điện thoại hoặc email được cung cấp trên trang web của trường."
+  ],
+  "Phòng kỹ thuật của trường có chức năng gì?": [
+    "Phòng kỹ thuật của trường có chức năng hỗ trợ sinh viên về các vấn đề kỹ thuật liên quan đến máy tính, phần mềm, mạng và các thiết bị điện tử khác."
+  ],
+  "Phòng ghi danh đối ngoại giúp đối tượng nào?": [
+    "Phòng ghi danh đối ngoại giúp các sinh viên quốc tế và sinh viên trong nước có nhu cầu tìm hiểu về các chương trình học và các hoạt động liên quan đến đối ngoại tại trường."
+  ],
+  "Phòng tuyển sinh của trường có những thông tin nào về đăng ký nhập học?": [
+    "Phòng tuyển sinh của trường cung cấp thông tin về các chương trình học, thủ tục đăng ký nhập học, điểm chuẩn và các chính sách ưu đãi về học phí."
+  ],
+  "Làm thế nào để đăng ký nhập học vào trường?": [
+    "Sinh viên có thể đăng ký nhập học vào trường thông qua trang web của trường hoặc đến trực tiếp phòng tuyển sinh để được hướng dẫn thủ tục đăng ký."
+  ],
+  "Trường có chính sách hỗ trợ tài chính cho sinh viên không?": [
+    "Có, trường có các chính sách hỗ trợ về học phí và vay vốn sinh viên để giúp các sinh viên có hoàn cảnh khó khăn."
+  ],
+  "Văn phòng đoàn hội có những hoạt động gì?": [
+    "Văn phòng đoàn hội có các hoạt động liên quan đến đời sống sinh viên, văn hóa, thể thao và tình nguyện như tổ chức các cuộc thi, sự kiện, chương trình tình nguyện,..."
+  ],
+  "Làm thế nào để liên hệ với Văn phòng đoàn hội?": [
+    "Sinh viên có thể liên hệ với Văn phòng đoàn hội qua số điện thoại hoặc email được cung cấp trên trang web của trường."
+  ],
+  "Phòng kế toán của trường đảm nhận các nhiệm vụ gì?": [
+    "Phòng kế toán của trường đảm nhận các nhiệm vụ liên quan đến quản lý tài chính, hỗ trợ các hoạt động của trường và các phòng ban khác."
+  ],
+  "Trường có chính sách hỗ trợ học bổng cho sinh viên không?": [
+    "Có, trường có các chính sách hỗ trợ học bổng cho sinh viên có thành tích học tập xuất sắc và có hoàn cảnh khó khăn."
+  ],
+  "Làm thế nào để đăng ký xét tuyển học bổng tại trường?": [
+    "Sinh viên có thể đăng ký xét tuyển học bổng tại phòng tuyển sinh hoặc liên hệ với Văn phòng Đào tạo để biết thêm thông tin chi tiết."
+  ],
+  "Trường có cơ sở vật chất đáp ứng yêu cầu học tập của sinh viên không?": [
+    "Có, trường có cơ sở vật chất hiện đại và đầy đủ để đáp ứng các yêu cầu học tập của sinh viên."
+  ],
+  "Ban quản lý đào tạo công tác sinh viên có chức năng gì?": [
+    "Ban quản lý đào tạo công tác sinh viên có nhiệm vụ quản lý và hỗ trợ sinh viên trong quá trình học tập và các hoạt động ngoại khóa."
+  ],
+  "Làm sao để biết thông tin về lịch học và giảng viên của mình?": [
+    "Sinh viên có thể xem thông tin về lịch học và giảng viên trên trang web của trường hoặc thông qua phần mềm quản lý giảng đường."
+  ],
+  "Làm thế nào để đăng ký học các môn học tại trường?": [
+    "Sinh viên có thể đăng ký học các môn học tại trường thông qua phần mềm quản lý giảng đường hoặc liên hệ với Văn phòng Đào tạo để được hỗ trợ thủ tục đăng ký."
+  ],
+  "Trường có cơ sở vật chất đáp ứng yêu cầu về thể thao và giải trí của sinh viên không?": [
+    "Có, trường có các cơ sở vật chất và hoạt động thể thao, giải trí phong phú để đáp ứng nhu cầu của sinh viên."
+  ],
+  "Trường có hỗ trợ tư vấn nghề nghiệp cho sinh viên không?": [
+    "Có, trường có các chương trình tư vấn nghề nghiệp đểhỗ trợ sinh viên trong việc lựa chọn ngành nghề và phát triển sự nghiệp sau này."
+  ],
+  "Phòng tuyển sinh của trường có những chính sách ưu đãi gì?": [
+    "Phòng tuyển sinh của trường có các chính sách ưu đãi về học phí, học bổng và các chương trình đào tạo đặc biệt."
+  ],
+  "Làm thế nào để đăng ký dự thi vào trường?": [
+    "Sinh viên có thể đăng ký dự thi vào trường thông qua trang web của trường hoặc liên hệ với phòng tuyển sinh để biết thêm thông tin về thủ tục đăng ký."
+  ],
+  "Trường có cơ sở vật chất đáp ứng yêu cầu về an ninh và an toàn của sinh viên không?": [
+    "Có, trường có các biện pháp bảo đảm an ninh và an toàn cho sinh viên trong khuôn viên trường."
+  ],
+  "Trường có chính sách hỗ trợ cho sinh viên nước ngoài không?": [
+    "Có, trường có các chính sách hỗ trợ cho sinh viên nước ngoài như hỗ trợ tìm chỗ ở, giấy tờ visa và hỗ trợ học phí."
+  ],
+  "Làm thế nào để đăng ký thực tập tại trường?": [
+    "Sinh viên có thể đăng ký thực tập tại trường thông qua trang web của trường hoặc liên hệ với phòng tuyển sinh để biết thêm thông tin về thủ tục đăng ký."
+  ],
+  "Trường có chương trình học tiếng Anh không?": [
+    "Có, trường có các chương trình học tiếng Anh để giúp sinh viên nâng cao trình độ tiếng Anh của mình."
+  ],
+  "Làm thế nào để biết thông tin về các hoạt động ngoại khóa của trường?": [
+    "Sinh viên có thể xem thông tin về các hoạt động ngoại khóa của trường trên trang web của trường hoặc liên hệ với Văn phòng Đào tạo hoặc Văn phòng Đoàn hội để biết thêm thông tin chi tiết."
+  ],
+  "Ban hành chính Thanh tra có chức năng giải quyết khiếu nại của sinh viên không": [
+    "Có, Ban hành chính Thanh tra có chức năng giải quyết khiếu nại của sinh viên về các hoạt động của trường."
+  ],
+  "Làm thế nào để yêu cầu giấy chứng nhận tốt nghiệp": [
+    "Sinh viên có thể yêu cầu giấy chứng nhận tốt nghiệp tại Văn phòng Đào tạo của trường và thực hiện thủ tục đăng ký và lấy giấy chứng nhận."
+  ],
+  "Trường có chương trình học thạc sĩ không": [
+    "Có, trường có các chương trình học thạc sĩ để giúp sinh viên nâng cao trình độ và có cơ hội phát triển sự nghiệp trong lĩnh vực của mình."
+  ],
+  "Phòng kỹ thuật có hỗ trợ các khóa học về kỹ thuật máy tính không": [
+    "Có, Phòng kỹ thuật có các khóa học về kỹ thuật máy tính để hỗ trợ sinh viên trong việc nâng cao kỹ năng sử dụng máy tính."
+  ],
+  "Trường có chương trình học tiếng Nhật không": [
+    "Có, trường có các chương trình học tiếng Nhật để giúp sinh viên nâng cao trình độ tiếng Nhật của mình."
+  ],
+  "Làm thế nào để yêu cầu xét tốt nghiệp đợt cuối": [
+    "Sinh viên cần liên hệ với Văn phòng Đào tạo trước thời hạn xét tốt nghiệp để được hướng dẫn thủ tục xét tốt nghiệp đợt cuối."
+  ],
+  "Văn phòng Đoàn hội có cung cấp dịch vụ hỗ trợ tìm việc làm cho sinh viên không": [
+    "Có, Văn phòng Đoàn hội có các chương trình tư vấn và hỗ trợ sinh viên trong việc tìm kiếm việc làm sau khi tốt nghiệp."
+  ],
+  "Phòng tuyển sinh của trường có hỗ trợ thủ tục xét tuyển đặc biệt cho những trường hợp khó khăn không": [
+    "Có, Phòng tuyển sinh của trường có các chính sách hỗ trợ thủ tục xét tuyển đặc biệt cho những trường hợp khó khăn như sinh viên có hoàn cảnh đặc biệt hay từ các vùng miền nghèo."
+  ],
+  "Làm thế nào để yêu cầu cấp lại bằng đại học": [
+    "Sinh viên cần liên hệ với Văn phòng Đào tạo của trường để được hướng dẫn thủ tục cấp lại bằng đại học."
+  ],
+  "Trường có chương trình học bổng cho sinh viên nghèo không": [
+    "Có, trường có các chương trình học bổng để hỗ trợ sinh viên có hoàn cảnh khó khăn, đặc biệt là sinh viên nghèo."
+  ],
+  "Phòng Khảo thí có chức năng gì trong trường": [
+    "Phòng Khảo thí của trường có chức năng tổ chức các kỳ thi và kiểm tra trình độ của sinh viên trong quá trình học tập."
+  ],
+  "Làm thế nào để yêu cầu hỗ trợ về tài chính cho việc học": [
+    "Sinh viên có thể liên hệ với Văn phòng Đào tạo hoặc các phòng ban liên quan để yêu cầu hỗ trợ về tài chính cho việc học."
+  ],
+  "Trường có chính sách hỗ trợ sinh viên tham gia các hoạt động ngoại khóa không": [
+    "Có, trường có chính sách hỗ trợ sinh viên tham gia các hoạt động ngoại khóa để giúp sinh viên có thêm kinh nghiệm và rèn luyện kỹ năng sống."
+  ],
+  "Văn phòng Khoa học công nghệ có chức năng gì trong trường": [
+    "Văn phòng Khoa học công nghệ của trường có chức năng hỗ trợ và phát triển các hoạt động nghiên cứu khoa học và ứng dụng công nghệ trong giảng dạy và học tập."
+  ],
+  "Trường có chương trình học tiếng Anh không": [
+    "Có, trường có các chương trình học tiếng Anh để giúp sinh viên nâng cao trình độ tiếng Anh của mình."
+  ],
+  "Phòng Hành chính tài chính có chức năng gì trong trường": [
+    "Phòng Hành chính tài chính của trường có chức năng quản lý và điều hành các hoạt động tài chính của trường, bao gồm quản lý ngân sách, thu chi và tài khoản."
+  ],
+  "Làm thế nào để yêu cầu xin giấy khai sinh": [
+    "Sinh viên có thể yêu cầu giấy khai sinh tại Văn phòng Đào tạo của trường và thực hiện thủ tục cần thiết theo quy định."
+  ],
+  "Trường có chương trình học các ngôn ngữ khác không": [
+    "Có, trường có các chương trình học các ngôn ngữ khác như tiếng Trung, tiếng Hàn, tiếng Pháp, tiếng Đức để giúp sinh viên nâng cao kỹ năng ngoại ngữ của mình."
+  ],
+  "Văn phòng Công tác sinh viên có chức năng gì trong trường": [
+    "Văn phòng Công tác sinh viên của trường có chức năng tổ chức và hỗ trợ các hoạt động sinh viên, bao gồm các hoạt động văn hóa, thể thao, tình nguyện và đoàn kết."
+  ],
+  "Làm thế nào để yêu cầu cấp lại thẻ sinh viên": [
+    "Sinh viên cần liên hệ với Văn phòng Đào tạo hoặc Văn phòng Công tác sinh viên của trường để được hướng dẫn thủ tục cấp lại thẻ sinh viên."
+  ],
+  "Trường có chương trình học liên kết với các trường đại học quốc tế không": [
+    "Có, trường có các chương trình học liên kết với các trường đại học quốc tế để giúp sinh viên có cơ hội trải nghiệm học tập và rèn luyện kỹ năng ngoại ngữ."
+  ],
+  "Phòng Hợp tác quốc tế có chức năng gì trong trường": [
+    "Phòng Hợp tác quốc tế của trường có chức năng phát triển và quản lý các hoạt động hợp tác quốc tế trong lĩnh vực giáo dục và nghiên cứu khoa học."
+  ],
+  "Trường có chính sách hỗ trợ sinh viên trong việc thực tập không": [
+    "Có, trường có chính sách hỗ trợ sinh viên trong việc thực tập để giúp sinh viên có thêm kinh nghiệm và rèn luyện kỹ năng thực tế."
+  ],
+  "Phòng Kế hoạch tài chính có chức năng gì trong trường": [
+    "Phòng Kế hoạch tài chính của trường có chức năng lập kế hoạch tài chính và quản lý ngân sách của trường."
+  ],
+  "Làm thế nào để yêu cầu hỗ trợ về chương trình học": [
+    "Sinh viên có thể liên hệ với Văn phòng Đào tạo hoặc các phòng ban liên quan để yêu cầu hỗ trợ về chương trình học của mình, bao gồm các vấn đề liên quan đến môn học, giảng viên, thời gian học và đánh giá kết quả học tập."
+  ],
+  "Trường có bao nhiêu phòng ban":[
+    "Trường gồm có 7 ban."
+  ],
+  "Gồm có các ban nào":[
+    "Các ban gồm: Ban hành chính Thanh tra, Ban quản lý đào tạo công tác sinh viên, Ban kỹ thuật, Phòng ghi danh đối ngoại, Phòng tuyển sinh, Phòng kế toán, Văn phòng đoàn hội"
+  ]
 }

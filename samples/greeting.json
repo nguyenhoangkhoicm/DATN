@@ -1,8 +1,71 @@
 {
-    "chào bạn" :  ["Chào bạn!"],
-    "xin chào":["Xin chào! "],
-    "Chào trợ lý":["Chào bạn!"],
-    "Chào nha":["Chào bạn! "],
-    "Alo":["Hello!"],
-    "Hi":["Hi!"]
+  "chào bạn": [
+    "Chào bạn!"
+  ],
+  "xin chào": [
+    "Xin chào bạn! "
+  ],
+  "Chào trợ lý": [
+    "Chào bạn nhé!"
+  ],
+  "Chào nha": [
+    "Chào bạn nha! "
+  ],
+  "Rất vui được làm việc với bạn trợ lý": [
+    "Chào bạn, tôi sẵn sàng hỗ trợ bạn như thế nào?"
+  ],
+  "Xin chào trợ lý": [
+    "Xin chào, tôi cảm ơn và chúc bạn một ngày vui vẻ."
+  ],
+  "Chào buổi sáng trợ lý": [
+    "Chào buổi sáng, tôi hy vọng bạn đã có một giấc ngủ ngon."
+  ],
+  "Xin chào trợ lý Tôi cần hỏi bạn về một số vấn đề liên quan đến công việc": [
+    "Tất nhiên, tôi sẽ cố gắng giúp bạn giải quyết vấn đề."
+  ],
+  "Chào buổi chiều trợ lý Bạn có thể giúp tôi với một số việc được không": [
+    "Chào buổi chiều, tôi sẵn sàng hỗ trợ bạn trong việc gì?"
+  ],
+  "Cảm ơn bạn đã đến với tôi, tôi hy vọng sẽ có thể giúp ích cho bạn.": [
+    "Tôi rất vui được làm việc cùng bạn, bạn cần tôi giúp đỡ với việc gì?"
+  ],
+  "Tôi hy vọng bạn đã sẵn sàng cho một ngày làm việc đầy thử thách trợ lý": [
+    "Tôi sẵn sàng trả lời các câu hỏi của bạn."
+  ],
+  "Chào buổi tối trợ lý Bạn đã làm được nhiều việc hôm nay chứ": [
+    "Chào buổi tối, tôi hy vọng bạn đã có một ngày làm việc thành công."
+  ],
+  "Xin chào và cảm ơn bạn đã luôn sẵn sàng hỗ trợ và giúp đỡ trợ lý": [
+    "Tôi rất cảm kích những lời chào hỏi của bạn, tôi sẽ cố gắng hỗ trợ bạn."
+  ],
+  "Xin chào trợ lý Tôi có thể đặt một câu hỏi cho bạn được không": [
+    "Tôi sẽ cố gắng giúp bạn tốt nhất có thể."
+  ],
+  "Chào bạn tôi cần sự giúp đỡ của bạn trong việc giải quyết một vấn đề trợ lý": [
+    "Tất nhiên, bạn có câu hỏi gì cần tôi giải đáp không?"
+  ],
+  "Xin chào và chúc bạn một ngày tràn đầy niềm vui trợ lý": [
+    "Chào mừng bạn đến với tôi, tôi sẵn sàng giúp đỡ bạn."
+  ],
+  "Chào ngày mới trợ lý": [
+    "Tôi sẽ cố gắng đáp ứng các yêu cầu của bạn."
+  ],
+  "Xin chào và chúc bạn một ngày vui vẻ trợ lý": [
+    "Tôi hy vọng mọi thứ đang ổn định với bạn."
+  ],
+  "Chúc một ngày tốt lành trợ lý": [
+    "Tôi luôn sẵn sàng hỗ trợ bạn trong công việc."
+  ],
+  "Tôi hy vọng bạn sẽ có một ngày làm việc hiệu quả trợ lý": [
+    "Tôi hy vọng sẽ có thể giúp ích cho bạn trong việc giải quyết vấn đề."
+  ],
+  "Rất vui được làm việc với bạn một ngày nữa trợ lý": [
+    "Tôi sẽ cố gắng đưa ra các kết quả phù hợp nhất cho bạn."
+  ],
+  "Xin chào và cảm ơn bạn đã đồng hành cùng tôi trợ lý": [
+    "Tôi rất vui được làm việc với bạn, bạn cần tôi giúp đỡ với việc gì?"
+  ],
+  "Tôi muốn hỏi bạn về một số vấn đề trợ lý": [
+    "Tôi sẵn sàng hỗ trợ bạn và trả lời bất kỳ câu hỏi nào của bạn."
+  ]
 }

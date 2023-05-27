@@ -13,8 +13,7 @@ class Ui_MainWindow(object):
 
         MainWindow.setWindowFlags(QtCore.Qt.FramelessWindowHint)
         MainWindow.setAttribute(QtCore.Qt.WA_TranslucentBackground)
-        # MainWindow.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint)
-
+       
         icon = QtGui.QIcon("image/assistant_icon.ico")
         MainWindow.setWindowIcon(icon)
 
@@ -34,8 +33,8 @@ class Ui_MainWindow(object):
 
         # create label
         self.label = QtWidgets.QLabel(self.centralwidget)
-        self.label.setMinimumSize(QtCore.QSize(500, 500))
-        self.label.setMaximumSize(QtCore.QSize(500, 500))
+        self.label.setMinimumSize(QtCore.QSize(566, 566))
+        self.label.setMaximumSize(QtCore.QSize(566, 566))
         self.label.setObjectName("label")
 
         x = (MainWindow.width() - self.label.width()) / 2
@@ -47,7 +46,7 @@ class Ui_MainWindow(object):
 
     def updateGif(self):
         if os.path.exists('voice.mp3'):
-            self.movie = QMovie("image/4.gif")
+            self.movie = QMovie("image/rob.gif")
             self.label.setMovie(self.movie)
             self.movie.start()
             animation = QtCore.QPropertyAnimation(self.label, b'geometry')
@@ -59,6 +58,7 @@ class Ui_MainWindow(object):
             self.label.clear()
 
     def run_task(self):
+
         self.thread = QtCore.QThread()
         self.worker = Worker()
         self.worker.moveToThread(self.thread)

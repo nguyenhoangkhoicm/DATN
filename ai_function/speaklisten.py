@@ -1,23 +1,29 @@
 from gtts import gTTS
 
-import playsound,os,re,webbrowser
+import playsound
+import os
+import re
+import webbrowser
 import speech_recognition as sr
 import pvporcupine
 import struct
-import pyaudio,json,random
+import pyaudio
+import json
+import random
+
 
 class speaker(object):
-    
+
     def speak(text):
-    
+
         urls = re.findall(r'https\S+', text)
-        for url in urls:   
+        for url in urls:
             webbrowser.open(url)
         text = re.sub(r'https\S+', '', text)
-    
+
         print("🤖: " + text)
-        tts = gTTS(text=text,lang='vi', slow=False)
-      
+        tts = gTTS(text=text, lang='vi', slow=False)
+
         filename = 'voice.mp3'
         tts.save(filename)
         playsound.playsound(filename)
@@ -25,7 +31,7 @@ class speaker(object):
         return text
 
     def siri():
-        name= "hey siri"
+        name = "hey siri"
         #  khởi tạo các biến.
         porcupine = None
         pa = None
@@ -41,67 +47,68 @@ class speaker(object):
 
         # mở luồng tới micrô.
         audio_stream = pa.open(
-            rate= porcupine.sample_rate,
+            rate=porcupine.sample_rate,
             channels=1,
             format=pyaudio.paInt16,
             input=True,
-            frames_per_buffer= porcupine.frame_length)
+            frames_per_buffer=porcupine.frame_length)
 
         while True:
 
             try:
                 # Đọc luồng âm thanh và chuyển đổi nó sang định dạng mà porcupine có thể
                 # hiểu.
-                pcm = audio_stream.read( porcupine.frame_length)
+                pcm = audio_stream.read(porcupine.frame_length)
                 pcm = struct.unpack_from(
                     "h" * porcupine.frame_length, pcm)
             except:
                 # mở luồng tới micrô.
                 audio_stream = pa.open(
-                    rate= porcupine.sample_rate,
+                    rate=porcupine.sample_rate,
                     channels=1,
                     format=pyaudio.paInt16,
                     input=True,
-                    frames_per_buffer= porcupine.frame_length)
+                    frames_per_buffer=porcupine.frame_length)
 
             # Xử lý luồng âm thanh và kiểm tra xem từ khóa có được phát hiện hay không.
             keyword_index = porcupine.process(pcm)
 
             # Trợ lý nghe được từ đánh thức và sau đó lắng nghe đầu vào của người dùng.
-            if keyword_index >= 0: 
+            if keyword_index >= 0:
                 if audio_stream is not None:
-                    with open('samples/answer_assistant.json',encoding='utf-8') as f:
+                    with open('samples/answer_assistant.json', encoding='utf-8') as f:
                         data = json.load(f)
-                        questions= data.get('', [])
+                        questions = data.get('', [])
                     question = random.choice(questions)
                     speaker.speak(question)
                     audio_stream.close()
                 break
-                
+
     def command(count=0):
         playsound.playsound("./sound/Ping.mp3", False)
         r = sr.Recognizer()
         with sr.Microphone() as source:
-            audio = r.record(source, duration=4)
+            audio = r.record(source, duration=5)
             try:
                 text = r.recognize_google(audio, language='vi')
                 print("🧑: " + text)
                 if text.lower() == "hey siri":
                     count = 0
             except sr.UnknownValueError:
-                speaker.speak("Xin lỗi tôi không nghe thấy bạn nói gì,bạn có thể nói lại không.")
+                speaker.speak(
+                    "Xin lỗi tôi không nghe thấy bạn nói gì,bạn có thể nói lại không.")
                 count += 1
                 if count == 3:
-                    speaker.speak("Tôi sẽ tạm dừng cho đến khi bạn gọi tên 'Hey siri'")
-                   
+                    speaker.speak(
+                        "Tôi sẽ tạm dừng cho đến khi bạn gọi tên 'Hey siri'")
+
                     while True:
                         try:
-                            speaker.siri() 
+                            speaker.siri()
                             break
                         except sr.UnknownValueError:
                             pass
-                    count=0
+                    count = 0
                 text = speaker.command(count)
-                    
+
         return text
-    

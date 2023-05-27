@@ -5,13 +5,19 @@ from ai_function.sleep import function
 from ai_function.reply import reply
 from intentclassification.intent_classification import IntentClassifier
 
-import pyaudio,json,random,sys,struct,pvporcupine
+import pyaudio
+import json
+import random
+import sys
+import struct
+import pvporcupine
+
 
 class Assistant:
-    
+
     def __init__(self, name):
         self.name = name
-        
+
     def reply(self, text):
         """
         Nếu ý định là 'rời đi', thì trợ lý nói "rất vui được phục vụ bạn." và thoát chương trình. 
@@ -20,23 +26,24 @@ class Assistant:
         :param text: Văn bản mà người dùng đã nhập
         """
         intent = intentclassifier.predict(text)
-        
+
         if intent == 'leaving':
-            with open('samples/leaving.json',encoding='utf-8') as f:
-                    data = json.load(f)
-                    questions = data.get('', [])
+            with open('samples/leaving.json', encoding='utf-8') as f:
+                data = json.load(f)
+                questions = data.get('', [])
             question = random.choice(questions)
             speaker.speak(question)
             sys.exit()
-      
+
         replies = {
             'greeting': reply,
-            'tuition':reply,
-            'department':reply,
-            'point':reply,
-            'pointlookup':point_lookup.main,
+            'tuition': reply,
+            'department': reply,
+            'point': reply,
+            'scholarship': reply,
+            'pointlookup': point_lookup.main,
             'schedule': schedule.main,
-            'sleep':function.main
+            'sleep': function.main
         }
         if intent in replies:
             reply_func = replies[intent]
@@ -44,26 +51,26 @@ class Assistant:
             # Kiểm tra xem chức năng có thể gọi được không.
             if callable(reply_func):
                 reply_func(text, intent)
-                with open('samples/ask_again.json',encoding='utf-8') as f:
+                with open('samples/ask_again.json', encoding='utf-8') as f:
                     data = json.load(f)
                     questions = data.get('', [])
                 question = random.choice(questions)
                 speaker.speak(question)
-                said=speaker.command()
+                said = speaker.command()
                 self.reply(said)
-             
+
         else:
             speaker.speak("Xin lỗi mình chưa đủ thông minh để giúp bạn")
- 
+
     def main(self):
 
-        with open('samples/hello_assistant.json',encoding='utf-8') as f:
+        with open('samples/hello_assistant.json', encoding='utf-8') as f:
             data = json.load(f)
             self.questions = data.get('', [])
 
         question = random.choice(self.questions)
         speaker.speak(question)
-        
+
         #  khởi tạo các biến.
         self.porcupine = None
         pa = None
@@ -106,15 +113,15 @@ class Assistant:
             keyword_index = self.porcupine.process(pcm)
 
             # Trợ lý nghe được từ đánh thức và sau đó lắng nghe đầu vào của người dùng.
-            if keyword_index >= 0: 
+            if keyword_index >= 0:
                 if audio_stream is not None:
-                    with open('samples/answer_assistant.json',encoding='utf-8') as f:
+                    with open('samples/answer_assistant.json', encoding='utf-8') as f:
                         data = json.load(f)
-                        questions= data.get('', [])
+                        questions = data.get('', [])
                     question = random.choice(questions)
                     speaker.speak(question)
                     audio_stream.close()
-                    
+
                 said = speaker.command()  # Lắng nghe đầu vào của người dùng
                 self.reply(said)
 
@@ -122,6 +129,3 @@ class Assistant:
 intentclassifier = IntentClassifier()
 assistant = Assistant("hey siri")
 assistant.main()
-
-
-
