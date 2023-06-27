@@ -266,7 +266,6 @@
   "Tôi có thể yêu cầu giảng viên cung cấp lời giải chi tiết của bài kiểm tra không?": [
     "Tùy thuộc vào chính sách của trường, bạn có thể yêu cầu giảng viên cung cấp lời giải chi tiết của bài kiểm tra."
   ],
-
   "Nếu tôi không đạt điểm tối thiểu trong bài kiểm tra giữa kỳ, điểm số của tôi sẽ bị ảnh hưởng như thế nào?": [
     "Tùy thuộc vào quy định của trường, điểm số của bạn có thể bị ảnh hưởng nếu bạn không đạt được điểm tối thiểu trong bài kiểm tra giữa kỳ."
   ],
@@ -282,7 +281,6 @@
   "Tôi có thể yêu cầu giảng viên cung cấp phản hồi sau khi kỳ thi cuối kỳ không?": [
     "Có, bạn có thể yêu cầu giảng viên cung cấp phản hồi sau khi kỳ thi cuối kỳ."
   ],
-
   "Tôi có thể hỏi giảng viên về phương pháp chấm điểm của họ không?": [
     "Có, bạn có thể hỏi giảng viên về phương pháp chấm điểm của họ."
   ],
@@ -454,11 +452,9 @@
   "Tôi có thể yêu cầu giảng viên hỗ trợ tài chính cho việc tham gia các hội thảo, hội nghị không?": [
     "Có, bạn có thể yêu cầu giảng viên hỗ trợ tài chính cho việc tham gia các hội thảo, hội nghị để có thể trình bày và chia sẻ nghiên cứu của mình."
   ],
- 
   "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc xin học bổng không?": [
     "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho bạn trong việc xin học bổng và cung cấp các thông tin cần thiết."
   ],
-  
   "Tôi có thể yêu cầu giảng viên tham gia cùng tôi vào các dự án ngoại khoá không?": [
     "Có, bạn có thể yêu cầu giảng viên tham gia cùng bạn vào các dự án ngoại khoá để có thể học hỏi và được hướng dẫn trong quá trình thực hiện."
   ],
@@ -516,7 +512,7 @@
   "Tôi có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch nghỉ hè không?": [
     "Có, bạn có thể yêu cầu giảng viên hỗ trợ cho việc xây dựng kế hoạch nghỉ hè để có thể sắp xếp thời gian dành cho việc nghỉ ngơi và tự rèn luyện bản thân."
   ],
-  "Mình cần làm những gì để cải thiện điểm số":[
+  "Mình cần làm những gì để cải thiện điểm số": [
     "Xác định mục tiêu và lập kế hoạch học tập hàng ngày, hàng tuần và hàng kỳ. Chia nhỏ công việc, đặt thời hạn và tuân thủ theo lịch trình để duy trì sự tổ chức và tiến độ học tập."
   ]
 }

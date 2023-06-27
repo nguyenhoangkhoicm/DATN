@@ -1,10 +1,11 @@
-import sys
 import subprocess
+import sys
 
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QProgressBar
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt, QTimer
-from PyQt5 import QtCore,QtGui
+from PyQt5 import QtCore, QtGui
+
 
 class WelcomeWindow(QWidget):
     def __init__(self):
@@ -16,7 +17,6 @@ class WelcomeWindow(QWidget):
         self.resize(800, 400)
         self.setStyleSheet("background-color: #404040")
         self.setWindowFlags(QtCore.Qt.FramelessWindowHint)
-        # self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
 
         icon = QtGui.QIcon("image/assistant_icon.ico")
         self.setWindowIcon(icon)
@@ -33,12 +33,14 @@ class WelcomeWindow(QWidget):
         title.setStyleSheet("font: bold 40px; color: #0099FF")
 
         # Tên đề tài
-        topic = QLabel("Tên đề tài: Xây dựng trợ lý ảo thông minh trợ giúp sinh viên", self)
+        topic = QLabel(
+            "Tên đề tài: Xây dựng trợ lý ảo thông minh trợ giúp sinh viên", self)
         topic.setAlignment(Qt.AlignCenter)
         topic.setStyleSheet("font: 30px; color: white")
 
         # GVHD và SVTH
-        supervisor = QLabel("GVHD: THS.Huỳnh Quang Đức    -    SVTH: Nguyễn Hoàng Khởi", self)
+        supervisor = QLabel(
+            "GVHD: THS.Huỳnh Quang Đức    -    SVTH: Nguyễn Hoàng Khởi", self)
         supervisor.setAlignment(Qt.AlignCenter)
         supervisor.setStyleSheet("font: 20px; color: red")
 
@@ -79,9 +81,10 @@ class WelcomeWindow(QWidget):
 
         if value == 100:
             self.timer.stop()
-            self.hide()
-            subprocess.Popen(['VA_GUI.exe'], creationflags=subprocess.CREATE_NO_WINDOW)
-           
+            self.close()
+            subprocess.run(['python', 'assistant_main.py'],
+                           creationflags=subprocess.CREATE_NO_WINDOW)
+
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)

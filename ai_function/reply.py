@@ -1,5 +1,7 @@
+
 import json
 import random
+
 from ai_function.determine_most_similar import determine_most_similar_phrase
 from ai_function.speaklisten import speaker
 
