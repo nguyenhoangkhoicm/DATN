@@ -4,7 +4,9 @@
 ## :star2: About the Project
 
 Chương trình trợ lý ảo được thiết kế để liên tục lắng nghe người dùng bằng từ khóa "hey siri". Khi từ khóa này được phát hiện, chương trình sử dụng tính năng nhận dạng giọng nói để xác định những gì người dùng đang nói.
+
 Để xác định mục đích của người dùng, chương trình sử dụng lớp intentclassifier (có trong thư mục /intentclassfiter/intenclassfiter.py) và thuật toán Support Vector Machine (SVM) đã được đào tạo trên tập dữ liệu chứa các lời nhắc mẫu của người dùng cùng với mục đích của họ. Nhờ đó, chương trình có thể phân loại mục đích của người dùng một cách chính xác.
+
 Dựa trên mục đích được phân loại, trợ lý ảo thực hiện các chức năng tương ứng, các chức năng này được lưu trữ trong thư mục /ai_functions. Qua đó, người dùng có thể tương tác với trợ lý ảo một cách dễ dàng và thuận tiện.
 
 
