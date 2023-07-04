@@ -54,6 +54,10 @@ class schedule():
                 (By.XPATH, "//p[contains(., 'Xem lịch học tại đây')]/following-sibling::p//img")))
             pdf_link.click()
 
+            download_button = wait.until(EC.presence_of_element_located(
+                    (By.XPATH, "/html/body/div[3]/div[4]/div/div[3]/div[2]/div[2]/div[3]")))
+            download_button.click()
+            
             download_folder = os.path.expanduser("~") + "/Downloads/"
 
             start_time = time.time()
