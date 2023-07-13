@@ -50,8 +50,7 @@ class schedule():
                 (By.XPATH, "//h5[contains(text(),'Lịch học tuần')]")))
             latest_schedule.click()
 
-            pdf_link = wait.until(EC.presence_of_element_located(
-                (By.XPATH, "//p[contains(., 'Xem lịch học tại đây')]/following-sibling::p//img")))
+            pdf_link = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="post-14910"]/div/div[1]/p[2]/a/img')))
             pdf_link.click()
 
             download_button = wait.until(EC.presence_of_element_located(
