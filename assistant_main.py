@@ -164,7 +164,7 @@ class AssistantThread(QtCore.QThread):
             self.answer_signal.emit(question)
             speaker.speak(question)
             QtWidgets.QApplication.quit()
-            sys.exit()
+            
 
         replies = {
             'greeting': self.replys,
@@ -274,8 +274,6 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         # Giảm kích thước của label
         self.label.setMinimumSize(QtCore.QSize(400, 400))
-        # Giảm kích thước của label
-        self.label.setMaximumSize(QtCore.QSize(400, 400))
         self.label.setObjectName("label")
 
         # create text edit
@@ -292,8 +290,6 @@ class Ui_MainWindow(object):
         """)
         self.answer_text.setFixedHeight(150)
         self.answer_text.setFixedWidth(300)
-        self.answer_text.setSizePolicy(
-            QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         self.answer_text.setVerticalScrollBarPolicy(
             QtCore.Qt.ScrollBarAlwaysOff)
 
@@ -320,16 +316,6 @@ class Ui_MainWindow(object):
             self.label.clear()
             self.answer_text.hide()
 
-    def paintEvent(self, event):
-        painter = QtGui.QPainter(self.viewport())
-        painter.setRenderHint(QtGui.QPainter.Antialiasing)
-        painter.setPen(QtCore.Qt.NoPen)
-        painter.setBrush(self.palette().base())
-        painter.drawRoundedRect(self.rect(), 20, 20)
-
-        super().paintEvent(event)
-
-
 class MainWindow(QtWidgets.QMainWindow):
 
     def __init__(self):
@@ -351,10 +337,7 @@ class MainWindow(QtWidgets.QMainWindow):
         self.ui.answer_text.clear()
         # Thêm câu trả lời mới vào QTextEdit
         self.ui.answer_text.append(answer)
-
-        # Di chuyển con trỏ đến cuối văn bản
-        self.ui.answer_text.moveCursor(QtGui.QTextCursor.End)
-
+       
 
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
